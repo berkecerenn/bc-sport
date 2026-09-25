@@ -1,0 +1,46 @@
+/* BC Sport marka renk tokenları (CLAUDE.md > Marka). Sabit beyaz tema; koyu mod yok. */
+:root {
+  --color-blue: #2563eb;
+  --color-turquoise: #06b6d4;
+  --color-purple: #7c3aed;
+  --color-green-live: #10b981; /* yalnızca canlı skor / gol vurgusu için */
+  --color-ink: #111827;
+  --color-ice-white: #f8fafc;
+
+  --color-background: var(--color-ice-white);
+  --color-foreground: var(--color-ink);
+  --color-primary: var(--color-blue);
+  --color-accent: var(--color-turquoise);
+  --color-highlight: var(--color-purple);
+
+  --font-sans:
+    "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}

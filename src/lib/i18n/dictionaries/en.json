@@ -1,0 +1,10 @@
+{
+  "site": {
+    "name": "BC Sport",
+    "tagline": "Latest news from Turkish and world football"
+  },
+  "home": {
+    "title": "Welcome to BC Sport",
+    "subtitle": "The site is currently under development. News, match center, standings and transfers will be here soon."
+  }
+}

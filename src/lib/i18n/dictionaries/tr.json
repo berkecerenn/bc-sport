@@ -1,0 +1,10 @@
+{
+  "site": {
+    "name": "BC Sport",
+    "tagline": "Türkiye ve dünya futbolundan güncel haberler"
+  },
+  "home": {
+    "title": "BC Sport'a hoş geldiniz",
+    "subtitle": "Site şu anda geliştirme aşamasında. Haber, maç merkezi, puan durumu ve transfer bölümleri yakında burada olacak."
+  }
+}
