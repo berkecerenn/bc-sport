@@ -7,11 +7,21 @@ import {
 } from "@/types/news";
 import rawLegacyFile from "../../../../legacy/data/haberler.json";
 
+// legacy'deki foto{url,kredi,kaynakUrl} alanı (bkz. legacy/DATA-KURALLARI.md #6-7).
+const legacyPhotoSchema = z.object({
+  url: z.string().url(),
+  kredi: z.string().min(1),
+  kaynakUrl: z.string().url(),
+});
+
 // legacy/data/haberler.json referans amaçlıdır ve Supabase'e taşınana kadar
 // (bkz. CLAUDE.md > Geliştirme sırası, adım 8) doğrudan bu dosyadan okunur.
 // Alan adları Türkçedir; `id` zaten kebab-case ve tekil olduğu için slug olarak
-// da kullanılır. Bilinmeyen/fazladan alanlar (gorsel, kaynaklar, macId, fotoAra...)
-// bu şemada tanımlı olmadığından zod tarafından otomatik olarak yok sayılır (strip).
+// da kullanılır. `fotoAra` (Wikipedia/Commons arama adayları) BİLİNÇLİ OLARAK
+// taşınmıyor: legacy sitedeki dinamik/istemci-taraflı fotoğraf arama özelliğini
+// tekrar etmiyoruz (bkz. "sunucu bileşeni, minimum istemci JS" ilkesi). Diğer
+// bilinmeyen/fazladan alanlar (kaynaklar, macId...) da bu şemada tanımlı
+// olmadığından zod tarafından otomatik olarak yok sayılır (strip).
 const legacyNewsItemSchema = z
   .object({
     id: z.string().min(1),
@@ -21,6 +31,9 @@ const legacyNewsItemSchema = z
     baslik: localizedTextSchema,
     ozet: localizedTextSchema,
     govde: localizedParagraphsSchema,
+    gorsel: localizedTextSchema,
+    gorselAlt: localizedTextSchema,
+    foto: legacyPhotoSchema.optional(),
   })
   .transform(
     (raw): NewsArticle => ({
@@ -32,6 +45,13 @@ const legacyNewsItemSchema = z
       title: raw.baslik,
       summary: raw.ozet,
       body: raw.govde,
+      // legacy'deki gorsel yolları site köküne göre bağıl (ör. "img/haberler/varsayilan.svg");
+      // public/ altına aynı yapıda kopyalandılar, bu yüzden başına "/" ekleyip mutlak yapıyoruz.
+      coverImage: { tr: `/${raw.gorsel.tr}`, en: `/${raw.gorsel.en}` },
+      coverImageAlt: raw.gorselAlt,
+      photo: raw.foto
+        ? { url: raw.foto.url, credit: raw.foto.kredi, sourceUrl: raw.foto.kaynakUrl }
+        : undefined,
     }),
   );
 

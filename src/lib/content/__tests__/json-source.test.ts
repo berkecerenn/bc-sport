@@ -17,6 +17,10 @@ describe("createJsonContentRepository (legacy/data/haberler.json)", () => {
       expect(article.summary.en).toBeTruthy();
       expect(article.body.tr.length).toBeGreaterThan(0);
       expect(article.body.en.length).toBeGreaterThan(0);
+      // Her haberde yedek kapak (SVG) mutlak bir yol olarak bulunmalı.
+      expect(article.coverImage.tr.startsWith("/")).toBe(true);
+      expect(article.coverImage.en.startsWith("/")).toBe(true);
+      expect(article.coverImageAlt.tr).toBeTruthy();
     }
   });
 
