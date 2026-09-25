@@ -25,6 +25,13 @@ pnpm-debug.log*
 coverage/
 .turbo/
 .supabase/
+.scratch/
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
 
 # OS / editor
 .DS_Store

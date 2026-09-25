@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { Locale } from "@/lib/i18n/config";
@@ -17,34 +17,36 @@ type Props = {
 
 const LIST_ID = "kategori-listesi";
 
-// Masaüstünde legacy'deki gibi yatay kaydırmalı hap menü; mobilde (≤800px)
-// düğmeyle açılıp kapanan açılır menü.
+// Mobil açılır/kapanır menü native <details>/<summary> ile kurulu: açma/kapama
+// tamamen HTML'in kendi davranışı, JavaScript'e bağlı değil. Bunu bilinçli
+// seçtik çünkü bir hydration uyuşmazlığı (ör. bir tarayıcı eklentisinin DOM'a
+// erken müdahalesi) veya JS'in henüz hazır olmadığı bir an, React state'ine
+// bağlı bir onClick'in hiçbir şey yapmamasına yol açabiliyordu; native
+// <details> bu sınıftaki hataların tamamını ortadan kaldırıyor. React/JS
+// yalnızca ek kolaylıklar için var: Escape ile kapatma, dışarı tıklayınca
+// kapatma, sayfa değişince kapatma. Bkz. e2e/category-nav.spec.ts.
 export function CategoryNav({ locale, categoriesLabel, openLabel, closeLabel }: Props) {
   const pathname = usePathname() ?? `/${locale}`;
-  const [open, setOpen] = useState(false);
-  const wrapperRef = useRef<HTMLDivElement>(null);
+  const detailsRef = useRef<HTMLDetailsElement>(null);
 
-  // Sayfa değiştiğinde mobil menüyü kapat. Bunu bir effect yerine render
-  // sırasında yapıyoruz (React'ın "adjusting state during render" deseni:
-  // https://react.dev/learn/you-might-not-need-an-effect), çünkü effect
-  // içinde senkron setState çağrısı gereksiz bir ekstra render'a yol açar.
-  const [prevPathname, setPrevPathname] = useState(pathname);
-  if (prevPathname !== pathname) {
-    setPrevPathname(pathname);
-    setOpen(false);
-  }
-
-  // Açıkken Escape veya dışarı tıklama ile kapat.
+  // Sayfa değişince menüyü kapat (dış sistemle -pathname ile- senkronizasyon,
+  // bu yüzden effect içinde; setState değil, DOM özelliği güncelleniyor).
   useEffect(() => {
-    if (!open) return;
+    if (detailsRef.current) detailsRef.current.open = false;
+  }, [pathname]);
 
+  useEffect(() => {
+    const details = detailsRef.current;
+    if (!details) return;
+
+    function close() {
+      if (details) details.open = false;
+    }
     function handleKeyDown(event: KeyboardEvent) {
-      if (event.key === "Escape") setOpen(false);
+      if (event.key === "Escape" && details?.open) close();
     }
     function handlePointerDown(event: MouseEvent) {
-      if (wrapperRef.current && !wrapperRef.current.contains(event.target as Node)) {
-        setOpen(false);
-      }
+      if (details?.open && !details.contains(event.target as Node)) close();
     }
 
     document.addEventListener("keydown", handleKeyDown);
@@ -53,25 +55,25 @@ export function CategoryNav({ locale, categoriesLabel, openLabel, closeLabel }: 
       document.removeEventListener("keydown", handleKeyDown);
       document.removeEventListener("mousedown", handlePointerDown);
     };
-  }, [open]);
+  }, []);
 
   return (
-    <div className={styles.wrapper} ref={wrapperRef}>
+    <div className={styles.wrapper}>
       <Container className={styles.inner}>
-        <button
-          type="button"
-          className={styles.toggle}
-          aria-expanded={open}
-          aria-controls={LIST_ID}
-          onClick={() => setOpen((value) => !value)}
-        >
-          <span aria-hidden="true" className={styles.toggleIcon}>
-            {open ? "✕" : "☰"}
-          </span>
-          {open ? closeLabel : openLabel}
-        </button>
+        <details className={styles.details} ref={detailsRef}>
+          <summary className={styles.toggle} aria-controls={LIST_ID}>
+            <span aria-hidden="true" className={`${styles.icon} ${styles.iconClosed}`}>
+              ☰
+            </span>
+            <span aria-hidden="true" className={`${styles.icon} ${styles.iconOpen}`}>
+              ✕
+            </span>
+            <span className={styles.labelClosed}>{openLabel}</span>
+            <span className={styles.labelOpen}>{closeLabel}</span>
+          </summary>
+        </details>
         <nav aria-label={categoriesLabel} className={styles.nav}>
-          <ul id={LIST_ID} className={open ? `${styles.list} ${styles.open}` : styles.list}>
+          <ul id={LIST_ID} className={styles.list}>
             {primaryNavLinks.map((item) => {
               const href = `/${locale}${item.href === "/" ? "" : item.href}`;
               const isActive = pathname === href;

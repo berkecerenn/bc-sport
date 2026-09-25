@@ -14,21 +14,43 @@
 }
 
 /* Masaüstünde gizli; yalnızca mobilde görünür. */
-.toggle {
+.details {
   display: none;
+}
+
+.toggle {
+  display: flex;
   align-items: center;
   gap: 8px;
-  border: none;
-  background: none;
   padding: 12px 4px;
   font-size: 0.9rem;
   font-weight: 700;
   color: var(--color-foreground);
   cursor: pointer;
+  list-style: none;
 }
 
-.toggleIcon {
+.toggle::-webkit-details-marker {
+  display: none;
+}
+
+.icon {
   font-size: 1.1rem;
+}
+
+.iconOpen,
+.labelOpen {
+  display: none;
+}
+
+.details[open] .iconClosed,
+.details[open] .labelClosed {
+  display: none;
+}
+
+.details[open] .iconOpen,
+.details[open] .labelOpen {
+  display: inline;
 }
 
 .nav {
@@ -77,32 +99,34 @@
     flex-wrap: wrap;
   }
 
-  .toggle {
-    display: inline-flex;
+  .details {
+    display: block;
   }
 
   .nav {
     flex-basis: 100%;
   }
 
+  /* Mobilde liste, yalnızca <details> açıkken (native [open] özniteliği)
+     görünür olur; bu kural saf CSS'tir, JavaScript'e ihtiyaç duymaz. */
   .list {
     display: none;
   }
 
-  .list.open {
+  .details[open] ~ .nav .list {
     display: flex;
     flex-direction: column;
     overflow-x: visible;
     padding-bottom: 8px;
   }
 
-  .list.open .link {
+  .details[open] ~ .nav .list .link {
     border-bottom: none;
     border-left: 2px solid transparent;
     padding: 10px 12px;
   }
 
-  .list.open .active {
+  .details[open] ~ .nav .list .active {
     border-left-color: var(--color-primary);
     background: var(--color-background);
   }

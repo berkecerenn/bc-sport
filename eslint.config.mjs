@@ -14,6 +14,11 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // legacy/ yalnızca referans içindir, lint kapsamı dışı.
     "legacy/**",
+    // .scratch/ geçici debug/repro betikleri içindir, repoya girmez.
+    ".scratch/**",
+    // Playwright çıktı klasörleri.
+    "test-results/**",
+    "playwright-report/**",
   ]),
 ]);
 
