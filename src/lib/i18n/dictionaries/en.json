@@ -1,10 +1,21 @@
 {
   "site": {
     "name": "BC Sport",
-    "tagline": "Latest news from Turkish and world football"
+    "tagline": "Football news from Turkey and around the world"
+  },
+  "nav": {
+    "skipToContent": "Skip to content",
+    "categoriesLabel": "Categories",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "languageLabel": "Language"
   },
   "home": {
     "title": "Welcome to BC Sport",
     "subtitle": "The site is currently under development. News, match center, standings and transfers will be here soon."
+  },
+  "footer": {
+    "description": "Stories are compiled by comparing information from several sources and rewritten in our own words.",
+    "rights": "All rights reserved."
   }
 }

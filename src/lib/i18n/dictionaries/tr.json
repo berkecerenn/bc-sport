@@ -3,8 +3,19 @@
     "name": "BC Sport",
     "tagline": "Türkiye ve dünya futbolundan güncel haberler"
   },
+  "nav": {
+    "skipToContent": "İçeriğe geç",
+    "categoriesLabel": "Kategoriler",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "languageLabel": "Dil"
+  },
   "home": {
     "title": "BC Sport'a hoş geldiniz",
     "subtitle": "Site şu anda geliştirme aşamasında. Haber, maç merkezi, puan durumu ve transfer bölümleri yakında burada olacak."
+  },
+  "footer": {
+    "description": "Haberler, birden çok kaynaktaki bilgiler karşılaştırılarak derlenir ve yeniden yazılır.",
+    "rights": "Tüm hakları saklıdır."
   }
 }

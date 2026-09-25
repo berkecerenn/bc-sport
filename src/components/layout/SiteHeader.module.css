@@ -1,0 +1,43 @@
+.header {
+  background: var(--color-surface);
+  padding: 16px 0;
+}
+
+.inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.brandText {
+  display: flex;
+  flex-direction: column;
+}
+
+.name {
+  font-size: 1.4rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.1;
+}
+
+.tagline {
+  font-size: 0.85rem;
+  color: var(--color-muted-foreground);
+}
+
+@media (max-width: 480px) {
+  .tagline {
+    display: none;
+  }
+}

@@ -13,9 +13,9 @@ export default async function HomePage({ params }: Props) {
   const dict = await getDictionary(locale);
 
   return (
-    <main>
+    <div>
       <h1>{dict.home.title}</h1>
       <p>{dict.home.subtitle}</p>
-    </main>
+    </div>
   );
 }

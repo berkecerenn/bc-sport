@@ -13,6 +13,14 @@
   --color-accent: var(--color-turquoise);
   --color-highlight: var(--color-purple);
 
+  /* Nötr destek tokenları (legacy/css/stil.css içindeki --kart, --yazi-soluk, --kenar
+     ile aynı değerler; marka paletinin bir parçası değil ama UI için gerekli). */
+  --color-surface: #ffffff;
+  --color-muted-foreground: #5a6478;
+  --color-border: #e3e8f2;
+
+  --container-max-width: 1100px;
+
   --font-sans:
     "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
 }
@@ -43,4 +51,17 @@ a {
 img {
   max-width: 100%;
   display: block;
+}
+
+#icerik {
+  padding: 24px 0 40px;
+  min-height: 50vh;
+}
+
+/* Klavye ile gezinimde odak halkasının her zaman görünür olması için. */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+  border-radius: 4px;
 }
