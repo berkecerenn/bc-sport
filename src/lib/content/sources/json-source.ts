@@ -1,16 +1,10 @@
-import { newsArticleSchema, type NewsArticle } from "@/types/news";
 import type { ContentRepository } from "../repository";
-import rawNews from "../data/news.sample.json";
+import { loadLegacyNews } from "./legacy-news-source";
 
-// Aşama 1 için geçici, örnek/yer tutucu veri. Gerçek haber içeriği `legacy/data`dan
-// Supabase'e taşınana kadar (bkz. CLAUDE.md > Geliştirme sırası, adım 8) bu kaynak
-// sadece veri katmanı mimarisini kanıtlamak için kullanılır.
-function loadNews(): NewsArticle[] {
-  return rawNews.map((item) => newsArticleSchema.parse(item));
-}
-
+// Aşama 8'e kadar (Supabase DB) tek kaynak legacy/data/haberler.json'dur
+// (bkz. legacy-news-source.ts). Sayfalar bu repository'yi `../index.ts` üzerinden kullanır.
 export function createJsonContentRepository(): ContentRepository {
-  const news = loadNews();
+  const news = loadLegacyNews();
 
   return {
     async getAllNews() {
