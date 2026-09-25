@@ -1,0 +1,114 @@
+/* Lig temaları: menüden lig seçilince sayfa o ligin renklerine bürünür (renkler resmi markalara yakın tahmindir, istersen değiştir) */
+body[data-tema="super-lig"]        { --mavi:#E30A17; --mor:#B3000F; --turkuaz:#F59E0B; --vurgu:#E30A17; }
+body[data-tema="premier-lig"]      { --mavi:#3D195B; --mor:#6B21A8; --turkuaz:#E90052; --vurgu:#3D195B; }
+body[data-tema="la-liga"]          { --mavi:#EE2A24; --mor:#1B1F3B; --turkuaz:#FF9F1C; --vurgu:#EE2A24; }
+body[data-tema="serie-a"]          { --mavi:#0B60C9; --mor:#0A2A5E; --turkuaz:#00A3E0; --vurgu:#0B60C9; }
+body[data-tema="bundesliga"]       { --mavi:#D20515; --mor:#7A0410; --turkuaz:#F5F5F5; --vurgu:#D20515; }
+body[data-tema="ligue-1"]          { --mavi:#0F1E5A; --mor:#1B2C86; --turkuaz:#C8DC1E; --vurgu:#0F1E5A; }
+body[data-tema="sampiyonlar-ligi"] { --mavi:#0A1F5C; --mor:#1E3A8A; --turkuaz:#5CC7FF; --vurgu:#0A1F5C; }
+body[data-tema="avrupa-ligi"]      { --mavi:#E8720C; --mor:#B45309; --turkuaz:#FDBA74; --vurgu:#E8720C; }
+body[data-tema="konferans-ligi"]   { --mavi:#0E9F6E; --mor:#065F46; --turkuaz:#6EE7B7; --vurgu:#0E9F6E; }
+body[data-tema="liga-portugal"] { --mavi:#006600; --mor:#DA291C; --turkuaz:#FFD100; --vurgu:#006600; }
+body[data-tema="eredivisie"] { --mavi:#E2001A; --mor:#1F3A93; --turkuaz:#F97316; --vurgu:#E2001A; }
+body[data-tema="belcika-ligi"] { --mavi:#F5C400; --mor:#111827; --turkuaz:#E11D48; --vurgu:#F5C400; }
+body[data-tema="norvec-ligi"] { --mavi:#BA0C2F; --mor:#00205B; --turkuaz:#60A5FA; --vurgu:#BA0C2F; }
+body[data-tema="iskocya-ligi"] { --mavi:#0B3C8C; --mor:#0F172A; --turkuaz:#38BDF8; --vurgu:#0B3C8C; }
+body[data-tema="danimarka-ligi"] { --mavi:#C8102E; --mor:#7F0A1E; --turkuaz:#F59E0B; --vurgu:#C8102E; }
+body { transition: background-color .3s; }
+.serit, .skor-sekme.aktif, .manset .gorsel { transition: background .3s; }
+
+/* Lig bandı: seçili ligin logosu ve adı */
+.lig-bandi { display: none; background: linear-gradient(100deg, var(--mavi), var(--mor)); color: #fff; }
+body[data-tema] .lig-bandi { display: block; }
+.lig-bandi .kapsayici { display: flex; align-items: center; gap: 18px; padding-top: 18px; padding-bottom: 18px; }
+.lig-logo-kutu { width: 64px; height: 64px; border-radius: 16px; background: #fff; display: flex; align-items: center; justify-content: center; padding: 8px; flex: none; overflow: hidden; }
+.lig-logo-kutu img { max-width: 100%; max-height: 100%; object-fit: contain; }
+.lig-logo-kutu span { color: var(--vurgu); font-weight: 900; font-size: 1.1rem; }
+.lig-bandi h2 { margin: 0; font-size: 1.5rem; }
+.lig-bandi p { margin: 2px 0 0; opacity: .85; font-size: .9rem; }
+
+/* Takım arması (gerçek logo dosyası varsa o, yoksa kısa kod rozeti) */
+.arma { width: 26px; height: 26px; flex: none; display: inline-flex; align-items: center; justify-content: center; border-radius: 50%; overflow: hidden; background: #fff; }
+.arma img { width: 100%; height: 100%; object-fit: contain; }
+.arma.yedek { background: linear-gradient(135deg, var(--mavi), var(--mor)); color: #fff; font-size: 9px; font-weight: 800; }
+.arma.buyuk { width: 56px; height: 56px; }
+.arma.buyuk.yedek { font-size: 15px; }
+
+/* Haber içi video ve bilgi kutuları */
+.video-kutu { margin: 22px 0; }
+.video-kutu .cerceve { position: relative; aspect-ratio: 16/9; border-radius: 14px; overflow: hidden; background: #000; }
+.video-kutu iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
+.video-kutu figcaption { font-size: .8rem; color: #6b7280; margin-top: 6px; }
+
+/* Maç merkezi */
+.mac-merkezi-baslik { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 16px; background: linear-gradient(100deg, var(--mavi), var(--mor)); color: #fff; border-radius: 18px; padding: 24px; margin: 8px 0 18px; }
+.mm-takim { display: flex; align-items: center; gap: 12px; font-weight: 800; font-size: 1.2rem; }
+.mm-takim.dep { justify-content: flex-end; text-align: right; }
+.mm-orta { text-align: center; }
+.mm-skor { font-size: 2.2rem; font-weight: 900; letter-spacing: 2px; }
+.mm-zaman { font-size: .85rem; opacity: .9; }
+.mm-bilgi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 12px; margin-bottom: 18px; }
+.mm-bilgi div { background: #f8fafc; border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px 14px; font-size: .9rem; }
+.mm-bilgi b { display: block; font-size: .72rem; text-transform: uppercase; color: #6b7280; letter-spacing: .06em; margin-bottom: 2px; }
+.mm-bolum { background: #fff; border: 1px solid #e5e7eb; border-radius: 14px; padding: 16px 18px; margin-bottom: 16px; }
+.mm-bolum h3 { margin: 0 0 10px; font-size: 1.05rem; color: var(--vurgu); }
+.demec { border-left: 3px solid var(--turkuaz); padding: 4px 0 4px 12px; margin: 10px 0; }
+.demec q { display: block; font-size: 1rem; }
+.demec small { color: #6b7280; }
+@media (max-width: 700px) { .mac-merkezi-baslik { grid-template-columns: 1fr; text-align: center; } .mm-takim, .mm-takim.dep { justify-content: center; } }
+
+/* Sıradaki maçlar */
+.siradaki { margin: 0 0 24px; }
+.siradaki h2 { font-size: 1.15rem; border-left: 4px solid var(--vurgu); padding-left: 10px; margin: 0 0 10px; }
+.sr-liste { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 10px; }
+.sr-kart { display: block; text-decoration: none; color: inherit; background: #fff; border: 1px solid #e5e7eb; border-radius: 12px; padding: 12px 14px; }
+.sr-kart:hover { border-color: var(--vurgu); }
+.sr-kart .sr-takimlar { display: flex; align-items: center; gap: 8px; font-weight: 700; font-size: .92rem; }
+.sr-kart .sr-tarih { color: var(--vurgu); font-size: .78rem; font-weight: 700; margin-bottom: 6px; }
+.sr-kart .sr-yer { color: #6b7280; font-size: .78rem; margin-top: 6px; }
+
+/* Yazar köşesi */
+.kose-baslik { margin: 6px 0 4px; font-size: 1.7rem; }
+.kose-liste { display: grid; gap: 16px; }
+.kose-kart { background: #fff; border: 1px solid #e5e7eb; border-radius: 16px; padding: 18px 20px; text-decoration: none; color: inherit; display: block; }
+.kose-kart:hover { border-color: var(--vurgu); }
+.kose-yazar { display: flex; align-items: center; gap: 10px; color: #6b7280; font-size: .85rem; margin-bottom: 6px; }
+.kose-yazar .avatar { width: 34px; height: 34px; border-radius: 50%; background: linear-gradient(135deg, var(--mavi), var(--mor)); color: #fff; display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: .8rem; }
+.kose-kart h3 { margin: 4px 0; font-size: 1.2rem; }
+.saha-kutu { margin: 22px 0; }
+.saha-kutu svg { width: 100%; height: auto; border-radius: 14px; display: block; }
+.saha-kutu figcaption { font-size: .82rem; color: #6b7280; margin-top: 6px; }
+.taslak-etiket { display: inline-block; background: #fef3c7; color: #92400e; border-radius: 6px; padding: 2px 8px; font-size: .72rem; font-weight: 700; }
+.pd-ic { display: inline-flex; align-items: center; gap: 8px; }
+.arma { width: 22px; height: 22px; }
+
+/* Menü: kaydırma yok, satıra sarılır; hiçbir bölüm gizli kalmaz */
+.ana-menu .kategoriler { flex-wrap: wrap; overflow: visible; -webkit-mask-image: none; mask-image: none; row-gap: 0; }
+.ana-menu .kat-dugme { padding: 12px 11px; }
+.ana-menu .kat-dugme.ozel { background: linear-gradient(100deg, var(--mavi), var(--mor)); color: #fff !important; border-radius: 999px; border-bottom: 0; margin: 6px 4px; padding: 7px 14px; }
+.ana-menu .kat-dugme.ozel:hover { filter: brightness(1.1); }
+.ana-menu .kat-dugme.ozel.kose { background: #111827; }
+#ustMenu .ana-menu { margin-top: 0; }
+
+/* Canlı maç: yanıp sönen yeşil nokta */
+.canli-nokta { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: #10B981; margin-right: 6px; box-shadow: 0 0 0 0 rgba(16,185,129,.7); animation: nabiz 1.4s infinite; vertical-align: 1px; }
+@keyframes nabiz { 0% { box-shadow: 0 0 0 0 rgba(16,185,129,.7); } 70% { box-shadow: 0 0 0 8px rgba(16,185,129,0); } 100% { box-shadow: 0 0 0 0 rgba(16,185,129,0); } }
+.mac.canli { border-color: #10B981; background: #ecfdf5; }
+.mac-durum.canli-yazi { color: #047857; font-weight: 800; }
+.mac.canli .mac-gol { color: #047857; }
+.mm-skor .canli-nokta, .sr-tarih .canli-nokta { vertical-align: 6px; }
+@media (prefers-reduced-motion: reduce) { .canli-nokta { animation: none; } }
+
+.kose-banner { display:flex; align-items:center; gap:16px; margin:16px 0; padding:16px 20px; border-radius:12px; background:linear-gradient(120deg,#0f172a,#1e293b); color:#fff; text-decoration:none; }
+.kose-banner .kb-ikon { font-size:28px; }
+.kose-banner .kb-yazi { flex:1; display:flex; flex-direction:column; gap:2px; }
+.kose-banner .kb-yazi b { font-size:18px; }
+.kose-banner .kb-yazi small { opacity:.8; font-size:13px; }
+.kose-banner .kb-dugme { background:#fff; color:#0f172a; padding:8px 14px; border-radius:20px; font-weight:700; font-size:13px; white-space:nowrap; }
+.skor-sekme .canli-nokta { margin-right:5px; }
+@media (max-width:600px){ .kose-banner .kb-yazi small{display:none;} }
+
+.pd-canli-bilgi { background:#ecfdf5; color:#047857; border:1px solid #10B981; border-radius:8px; padding:8px 12px; font-weight:700; margin:0 0 10px; }
+.pd-tablo small.yukari { color:#047857; } .pd-tablo small.asagi { color:#b91c1c; }
+.pd-ic .canli-nokta { margin-left:6px; margin-right:0; }
+.etiket[data-kat="liga-portugal"], .etiket[data-kat="eredivisie"], .etiket[data-kat="belcika-ligi"], .etiket[data-kat="norvec-ligi"], .etiket[data-kat="iskocya-ligi"], .etiket[data-kat="danimarka-ligi"] { color: var(--mor); }

@@ -1,0 +1,2302 @@
+{
+ "guncelleme": "2026-09-20",
+ "donem": "Yaz 2026 (22 Haziran – 5 Eylül)",
+ "kaynaklar": [
+  "Lider Haber",
+  "Bizim Sivas"
+ ],
+ "not": {
+  "tr": "Bedeller (milyon €) yalnızca basında açıklandığı durumlarda yazılır; boş bırakılanlar açıklanmamıştır. Kulüp resmi duyuruları esas alınmalıdır.",
+  "en": "Fees (€ million) are shown only where reported in the press; blanks are undisclosed. Official club announcements should be treated as the source of truth."
+ },
+ "kulupler": [
+  {
+   "ad": "Galatasaray",
+   "kod": "GS",
+   "gelen": [
+    {
+     "oyuncu": "Rafael Leao",
+     "tur": "T",
+     "bedel": 38.0
+    },
+    {
+     "oyuncu": "Aleksey Batrakov",
+     "tur": "T",
+     "bedel": 25.0
+    },
+    {
+     "oyuncu": "Deniz Gül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Lesley Ugochukwu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "El-Chadaille Bitshiabu",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Nicolo Zaniolo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Turap Bülbül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökdeniz Gürpüz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Batuhan Şen",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Victor Nelsson",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Siraçhan Nas",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Efe Çördek",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mauro Icardi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Wilfried Zaha",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ahmed Kutucu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Halil Dervişoğlu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Berat Yılmaz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Yalın Dilek",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Ali Yeşilyurt",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Elias Jelert",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Metehan Baltacı",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Fenerbahçe",
+   "kod": "FB",
+   "gelen": [
+    {
+     "oyuncu": "Mason Greenwood",
+     "tur": "T",
+     "bedel": 39.0
+    },
+    {
+     "oyuncu": "Vedat Muriqi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kojo Peprah Oppong",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nathan Aké",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Romelu Lukaku",
+     "tur": "T"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Sidiki Chérif",
+     "tur": "T",
+     "bedel": 24.5
+    },
+    {
+     "oyuncu": "Fred",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Dominik Livakovic",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sofyan Amrabat",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Omar Fayed",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Talisca",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cengiz Ünder",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Çağlar Söyüncü",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "İrfan Can Eğribayat",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Mor",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Demir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Engin Can Biterge",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Anthony Musaba",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Diego Carlos",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Yiğit Fidan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Çağrı Fedai",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Mustafa Akyıldız",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Adem Yeşilyurt",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Beşiktaş",
+   "kod": "BJK",
+   "gelen": [
+    {
+     "oyuncu": "Leandro Trossard",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Alexander Nübel",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kassoum Ouattara",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Dusan Vlahovic",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salih Özcan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ümit Akdağ",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Doğan Alemdar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "İlhan Fakılı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ernest Poku",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Fabio Miretti",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Ernest Muçi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Felix Uduokhai",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökhan Sazdağı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Göktuğ Baytekin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Bilgin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "João Mário",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salih Uçan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ersin Destanoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emrecan Terzi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Tayyip Talha Sanuç",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Al-Musrati",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Necip Uysal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Amir Hadžiahmetović",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jean Onana",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emrecan Uzunhan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arda Kılıç",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cumali Gürsel",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Devrim Şahin",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Elan Ricardo",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Trabzonspor",
+   "kod": "TS",
+   "gelen": [
+    {
+     "oyuncu": "Franculino",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Aral Şimşir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Noah Saviolo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sidny Lopes Cabral",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Muhammed Salah",
+     "tur": "B"
+    },
+    {
+     "oyuncu": "Cenk Özkacar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Melih Kabasakal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Fabinho",
+     "tur": "B"
+    },
+    {
+     "oyuncu": "Samet Akaydin",
+     "tur": "B"
+    },
+    {
+     "oyuncu": "Metehan Mimaroğlu",
+     "tur": "B"
+    },
+    {
+     "oyuncu": "Ruslan Malinovskyi",
+     "tur": "B"
+    },
+    {
+     "oyuncu": "Ali Habeşoğlu",
+     "tur": "B"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Christ Inao Oulai",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Felipe Augusto",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Oleksandr Zubkov",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salih Malkoçoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mathias Løvik",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arif Boşluk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Serdar Saatçı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Edin Višća",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "John Lundstram",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Anthony Nwakaeme",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Veysel Sönmezsoy",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Şahin Yılmaz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Onuralp Çakıroğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Boran Başkan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Taha Emre İnce",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Zekeriya Bulut",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Denis Drăguş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Göktan Gürpüz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Muhammed Cham",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Arda Öztürk",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Thierry Karadeniz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Kazeem Olaigbe",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Oğuzhan Yılmaz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Poyraz Yıldırım",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Rene Mitongo",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Başakşehir",
+   "kod": "İBFK",
+   "gelen": [
+    {
+     "oyuncu": "Emin Bayram",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Saba Kharebashvili",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Edin Višća",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Michał Karbownik",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Bozok",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Andreas Skov Olsen",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Doğan Alemdar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Matchoi Djaló",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Kaplan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nuno da Costa",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hamza Ljukovac",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Miguel Crespo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Karaal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Leo Duarte",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ayberk Kaygısız",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Halit Emre Acun",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berat Özdemir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Francis Nzaba",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mohamed Fofana",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Doğukan Tuzcu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yusuf Yılmaz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Efe Arda Koyuncu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eren Karaağaç",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Burak Sefa Kavraz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Yağız Dilek",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Tuğra Turhan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Berkay Aslan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Abdoulaye Yoro",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Festy Ebosele",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Onur İnan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Berkay Aydoğmuş",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Çorum FK",
+   "kod": "ÇOR",
+   "gelen": [
+    {
+     "oyuncu": "Mohamed Diomande",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ermin Mahmić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jesús Ramírez",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Andrei Borza",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Alexandros Kyziridis",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Markus Karlsbakk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hrvoje Smolčić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ylber Ramadani",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arif Şimşir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Serdar Saatçı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Marcos Felipe",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökhan Sazdağı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hüseyin Bulut",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cengiz Ünder",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berat Özdemir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emircan Gürlük",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erhan Erentürk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Çağlar Söyüncü",
+     "tur": "T"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Ibrahim Šehić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emeka Eze",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Braian Samudio",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Joseph Attamah",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Burak Çoban",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erkan Kaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sinan Osmanoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berkay Arı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ferhat Yazgan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yusuf Erdoğan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Pedrinho",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Oğuz Gürbulak",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ahmet Kıvanç",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hasan Hüseyin Akınay",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kerem Kalafat",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Üzeyir Ergün",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Serdar Gürler",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Polat Abay",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Danijel Aleksić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Atakan Cangöz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Taha Rençber",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kenan Fakılı",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Osman Şahin",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Semih Akyıldız",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Mert Aktaş",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Hasan Abdulkareem",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Eren Karadağ",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Hasan Emre Yeşilyurt",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Göztepe",
+   "kod": "GÖZ",
+   "gelen": [
+    {
+     "oyuncu": "Sinclair Armstrong",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "André Henrique",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Noah Sonko Sundberg",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökdeniz Bayrakdar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salem Bouajila",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Bekir Turaç Böke",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Luka Gugeshashvili",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Alex Matos",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Richard Akonnor",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Faustino Anjorin",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Anthony Dennis",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mateusz Lis",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "İsmail Köybaşı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erkam Kömür",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Heliton",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Musah Mohammed",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Uğur Kaan Yıldız",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ekrem Kılıçarslan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Tibet Durakçay",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Guilherme Luiz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Jeh",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Furkan Malak",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Amin Cherni",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Salem Bouajila",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Efe Can Mete",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Samsunspor",
+   "kod": "SAM",
+   "gelen": [
+    {
+     "oyuncu": "Gabriele Guarino",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Oskar Ohlenschlager",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Igor Drapiński",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Antoine Sekongo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Elliot Watt",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cheick Tidiane Diabaté",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Samed Onur",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Bilal Bayazıt",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Fatih Kaya",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mohamad Bayo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Strahinja Eraković",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Carlo Holse",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Rick van Drongelen",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arbnor Muja",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Soner Gönül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Zeki Yavru",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ľubomír Šatka",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Olivier Ntcham",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Alper Efe Pazar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Tarkan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Cherif Ndiaye",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Emre Köroğlu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Eylül Değirmenci",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Muhammet Özbaşkıcı",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Franck Atoen",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Antoine Makoumbou",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Richie Omorowa",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Cheick Tidiane Diabaté",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Toni Borevković",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Çaykur Rizespor",
+   "kod": "RİZ",
+   "gelen": [
+    {
+     "oyuncu": "Zakaria Ariss",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Iustin Doicaru",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Siaka Bakayoko",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Modibo Sagnan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Erdem",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eminhan Yılmaz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Doğanay Avcı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Tayyip Talha Sanuç",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Can Bozdoğan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ahmed Kutucu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Moussa Diakité",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Gennaro Borrelli",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Altin Zeqiri",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Samet Akaydin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emir Ortakaya",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Benhur Keser",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Giannis Papanikolaou",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Casper Højer",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hüseyincan Kırıkçı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Doğanay Avcı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mustafa Şengül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eren Emre Aydın",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eray Korkmaz",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Mame Mor Faye",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Furkan Orak",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Erdem Canpolat",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Muhamed Buljubašić",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Konyaspor",
+   "kod": "KON",
+   "gelen": [
+    {
+     "oyuncu": "Rajmund Molnár Tóth",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Chidozie Awaziem",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mostafa Mohamed",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arif Boşluk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Da Mata",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mohamed Fofana",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eric Konaté",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Enis Destan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arthur Masuaku",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kaan Akyazı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mücahit İbrahimoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Melih Bostan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jean-Luc Dompé",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ibrahima Bah",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ebrima Colley",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Blaž Kramer",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Rıdvan Dönmez",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ahmet Daş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sander Svendsen",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mehmet Ali Büyüksayar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yasir Subaşı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Metehan Mert",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Morten Bjørlo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berkan Kutlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ufuk Akyol",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Utku Eriş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Riechedly Bazoer",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Guilherme",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Josip Čalušić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Esat Buğa",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Abdurrahman Üresin",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Kaan Akyazı",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Adem Eren Kabak",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Eren Yağmur",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Ibrahima Bah",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Mohamed Fofana",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Eric Konaté",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Melih Bostan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Tunahan Taşçı",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Jo Jin-ho",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Kasımpaşa",
+   "kod": "KAS",
+   "gelen": [
+    {
+     "oyuncu": "Adrian Benedyczak",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kevin Mouanga",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Thiemoko Diarra",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ayberk Karapo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Elson Mendes",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Marcus Rafferty",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Matei Ilie",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kenan Kurtović",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sercan Deniz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emirhan Boz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Muhammed Emin Bektaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Güven Yalçın",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jakob Jessen",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Stann Elysée Dalo",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ömer Bayram",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jesurun Rak-Sakyi",
+     "tur": "T"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Cafú",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nicholas Opoku",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sarp Yavrucu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berk Can Yıldızlı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Taşdemir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cenk Tosun",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kubilay Kanatsızkuş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berkay Muratoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Oğuzhan Yılmaz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Pape Habib Guèye",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Burak Gültekin",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Dağhan Erdoğan",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Yasin Eratilla",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Kenan Kurtović",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Stann Elysée Dalo",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Erdem Çetinkaya",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Adnan Aktaş",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Yusuf Barası",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Taylan Aydın",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Alanyaspor",
+   "kod": "ALA",
+   "gelen": [
+    {
+     "oyuncu": "Omar Ben Ali",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ivan Cedric",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Baran Gezek",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Şahin Dik",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Arouna Soro",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Demir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nejdet Bilin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Paolo Fernandes",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Ümit Akdağ",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nicolas Janvier",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Güven Yalçın",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ertuğrul Taşkıran",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Efecan Karaca",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Veysel Ünal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emirhan Çavuş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Eren Altıntaş",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Bruno Viana",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Buluthan Bulut",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Osman Arslantaş",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Gaziantep FK",
+   "kod": "GAZ",
+   "gelen": [
+    {
+     "oyuncu": "Florin Ștefan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Serdar Dursun",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Fuat Bavuk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ulrich Meleke",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sabahattin Destici",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kerim Çalhanoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kacper Tobiasz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ataberk Dadakdeniz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Abakar Sylla",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Trivante Stewart",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Halil Dervişoğlu",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Sontje Hansen",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Melih Kabasakal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Onur Başyiğit",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Christopher Lungoyi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kevin Rodrigues",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Burak Bozan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Meyran Ablak",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yusuf Delen",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salem M'Bakata",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ensar Kemaloğlu",
+     "tur": "T"
+    }
+   ]
+  },
+  {
+   "ad": "Gençlerbirliği",
+   "kod": "GEN",
+   "gelen": [
+    {
+     "oyuncu": "Sekou Koïta",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kevin Rodrigues",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "İrfan Can Eğribayat",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Göktuğ Erdem",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salih Uçan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ensar Çavuşoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Pedro Mendes",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Rafael Luís",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ousmane Diabaté",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Metehan Baltacı",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Tiago Gouveia",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Cheikh Niasse",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Victor Orakpo",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Gökhan Altıparmak",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut İslamoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Samed Onur",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erhan Erentürk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Metehan Mimaroğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Matěj Hanousek",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Žan Žužek",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ebrar Aydın",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Moussa Kyabou",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emirhan Ünal",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berat Can Sebat",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Henry Onyekuru",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "M'Baye Niang",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Abdullah Şahindere",
+     "tur": "T"
+    }
+   ]
+  },
+  {
+   "ad": "Kocaelispor",
+   "kod": "KOC",
+   "gelen": [
+    {
+     "oyuncu": "Habib Keita",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Metehan Altunbaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Show",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Matej Maglica",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Florian Aye",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berkan Kutlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Onurcan Piri",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Makana Baku",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emir Ortakaya",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Haydar Karataş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Bünyamin Dalkılıç",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Uğur Kaan Yıldız",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hulusi Destici",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Tanguy Zoukrou",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Tobias Gulliksen",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Gonçalo Sousa",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Samet Yalçın",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Serdar Dursun",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mesut Can Tunalı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Joseph Nonge",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Karol Linetty",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Darko Churlinov",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Furkan Gedik",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökhan Değirmenci",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Can Aslan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ahmet Oğuz",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Esat Yusuf Narin",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Bünyamin Dalkılıç",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Amed SF",
+   "kod": "AMD",
+   "gelen": [
+    {
+     "oyuncu": "Yira Sor",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Samuel Ballet",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Lumbardh Dellova",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Rayan Raveloson",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "David Bates",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mohamed Khalil",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ali Turap Bülbül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Amadou Cissé",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Burak Bozan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Furkan Soyalp",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ermal Krasniqi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Meraş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berk Kızıldemir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Rayan Lutin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gökhan Gül",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Dilhan Demir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Alban Lafont",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gift Orban",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Florent Hasani",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Daniel Moreno",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hasan Ali Kaldırım",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Adama Traoré",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Abdulsamed Damlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Tarkan Serbest",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mert Miraç Altıntaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Zdravko Dimitrov",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Murat Uçar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "André Poko",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erce Kardeşler",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Sinan Kurt",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Çekdar Orhan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emrah Başsan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Celal Hanalp",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Oğuzhan Matur",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Abdullah Tazgel",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Civan Süer",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emrullah Ertuş",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Ayaz Arslan",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Erzurumspor FK",
+   "kod": "ERZ",
+   "gelen": [
+    {
+     "oyuncu": "Elisha Owusu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Nihad Mujakić",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Miguel Cardoso",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kerem Erener",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ertuğrul Taşkıran",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gyrano Kerk",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Enes Karakaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Festy Ebosele",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Nariman Akhundzada",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Ibrahim Diabaté",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Enes Yiğit",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kerem Erener",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Enes Karakaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gürkan Varlık",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hüsamettin Yener",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Cheikhne Sylla",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Giovanni Crociata",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Salih Sarıkaya",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Fırat Şaşı",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hüseyin Mevlütoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Kağan Moradaoğlu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Murat Cem Akpınar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mert Önal",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Ali Ülgen",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "İlkan Sever",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Serkan Köse",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Furkan Özhan",
+     "tur": "K"
+    }
+   ]
+  },
+  {
+   "ad": "Eyüpspor",
+   "kod": "EYP",
+   "gelen": [
+    {
+     "oyuncu": "Ahmed Abdullahi",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "David Costa",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yiğit Demir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Konrad Michalak",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Jawad El Yamiq",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mete Demir",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Simone Giordano",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Zak Jules",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Chandrel Massanga",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Abdelhamid Sabiri",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Bilgin",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Bilal Boutobba",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Musa Eren Karakaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Yusuf Barası",
+     "tur": "K"
+    },
+    {
+     "oyuncu": "Horatiu Moldovan",
+     "tur": "K"
+    }
+   ],
+   "giden": [
+    {
+     "oyuncu": "Metehan Altunbaş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Marcos Felipe",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mateusz Łęgowski",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Erdem Gökçe",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Fethi Özer",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Luccas Claro",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Ismaila Manga",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Emre Akbaba",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Meraş",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Mustafa Eren Damar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Umut Bozok",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Hüseyin Maldar",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Buğra Çağlıyan",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Calegari",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Dorin Rotariu",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Gilbert Mendy",
+     "tur": "T"
+    },
+    {
+     "oyuncu": "Berkay Kumlu",
+     "tur": "K"
+    }
+   ]
+  }
+ ]
+}

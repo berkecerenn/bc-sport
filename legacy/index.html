@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="color-scheme" content="light">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BC Sport</title>
+  <meta name="description" content="Türkiye ve dünya futbolundan güncel haberler tek sayfada.">
+  <link rel="icon" href="img/marka/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="img/marka/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="stylesheet" href="css/temalar.css">
+</head>
+<body>
+
+  <!-- ÜST KISIM: logo, slogan ve dil seçici -->
+  <header class="ust">
+    <div class="kapsayici ust-icerik">
+      <div>
+        <h1 class="logo"><img class="logo-resim" src="img/marka/logo.png" alt="BC Sport"></h1>
+        <p class="alt-baslik" data-i18n="site.slogan">Türkiye ve dünya futbolundan güncel haberler</p>
+      </div>
+      <div class="dil-secici" role="group" aria-label="Dil">
+        <button class="dil-dugme" data-dil="tr">TR</button>
+        <button class="dil-dugme" data-dil="en">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <!-- KATEGORİ DÜĞMELERİ: yazılar data-i18n ile çevrilir -->
+  <div class="ana-menu"><nav class="kategoriler kapsayici" aria-label="Kategoriler">
+    <button class="kat-dugme aktif" data-kategori="hepsi" data-i18n="kat.hepsi">Hepsi</button>
+    <button class="kat-dugme" data-kategori="super-lig" data-i18n="kat.super-lig">Süper Lig</button>
+    <button class="kat-dugme" data-kategori="premier-lig" data-i18n="kat.premier-lig">Premier Lig</button>
+    <button class="kat-dugme" data-kategori="la-liga" data-i18n="kat.la-liga">La Liga</button>
+    <button class="kat-dugme" data-kategori="serie-a" data-i18n="kat.serie-a">Serie A</button>
+    <button class="kat-dugme" data-kategori="bundesliga" data-i18n="kat.bundesliga">Bundesliga</button>
+    <button class="kat-dugme" data-kategori="ligue-1" data-i18n="kat.ligue-1">Ligue 1</button>
+    <button class="kat-dugme" data-kategori="sampiyonlar-ligi" data-i18n="kat.sampiyonlar-ligi">UEFA Şampiyonlar Ligi</button>
+    <button class="kat-dugme" data-kategori="avrupa-ligi" data-i18n="kat.avrupa-ligi">UEFA Avrupa Ligi</button>
+    <button class="kat-dugme" data-kategori="konferans-ligi" data-i18n="kat.konferans-ligi">UEFA Konferans Ligi</button>
+    <button class="kat-dugme" data-kategori="liga-portugal" data-i18n="kat.liga-portugal">Liga Portugal</button>
+    <button class="kat-dugme" data-kategori="eredivisie" data-i18n="kat.eredivisie">Eredivisie</button>
+    <button class="kat-dugme" data-kategori="belcika-ligi" data-i18n="kat.belcika-ligi">Belçika Pro Ligi</button>
+    <button class="kat-dugme" data-kategori="norvec-ligi" data-i18n="kat.norvec-ligi">Norveç Eliteserien</button>
+    <button class="kat-dugme" data-kategori="iskocya-ligi" data-i18n="kat.iskocya-ligi">İskoçya Premiership</button>
+    <button class="kat-dugme" data-kategori="danimarka-ligi" data-i18n="kat.danimarka-ligi">Danimarka Superliga</button>
+    <button class="kat-dugme" data-kategori="transfer" data-i18n="kat.transfer">Transfer</button>
+    <a class="kat-dugme ozel" href="transfer.html" data-i18n="menu.transferTablo">Transfer tablosu</a>
+    <a class="kat-dugme ozel" href="puan-durumu.html" data-i18n="menu.puan">Puan durumu</a>
+    <a class="kat-dugme ozel kose" href="kose.html" data-i18n="menu.kose">Yazar köşesi</a>
+  </nav></div>
+
+  <!-- SON DAKİKA ŞERİDİ: JavaScript doldurur -->
+  <div id="ligBandi" class="lig-bandi"></div>
+  <div class="serit">
+    <div class="kapsayici serit-icerik">
+      <span class="serit-etiket" data-i18n="son.baslik">SON DAKİKA</span>
+      <div id="seritListe" class="serit-liste"></div>
+    </div>
+  </div>
+
+
+  <!-- SKOR ŞERİDİ: maclar.json'dan doldurulur -->
+  <div class="skor-seridi">
+    <div id="skorSekmeler" class="kapsayici skor-sekmeler" role="tablist"></div>
+    <div id="skorListe" class="kapsayici skor-liste"></div>
+  </div>
+
+  <!-- ANA İÇERİK: haberler buraya JavaScript ile çizilir -->
+  <main class="kapsayici">
+    <!-- 1. bölüm: büyük manşet + yanında kısa liste -->
+    <a class="kose-banner" href="kose.html"><span class="kb-ikon">✎</span><span class="kb-yazi"><b data-i18n="kb.baslik">Yazar köşesi</b><small data-i18n="kb.metin"></small></span><span class="kb-dugme" data-i18n="kb.dugme"></span></a>
+    <section id="siradakiMaclar" class="siradaki" hidden><h2 data-i18n="sr.baslik">Sıradaki maçlar</h2><div id="siradakiListe" class="sr-liste"></div></section>
+    <section class="ust-bolum">
+      <div id="mansetAlani"></div>
+      <aside class="son-haberler">
+        <h2 class="bolum-baslik" data-i18n="son.liste">Son haberler</h2>
+        <ol id="yanListe" class="saatli"></ol>
+      </aside>
+    </section>
+
+    <!-- 2. bölüm: kartlar (sol) + numaralı öne çıkanlar (sağ) -->
+    <div class="alt-duzen">
+      <section>
+        <h2 class="bolum-baslik" data-i18n="diger.baslik">Diğer haberler</h2>
+        <div id="haberIzgara" class="izgara"></div>
+      </section>
+      <aside class="yan-kutu">
+        <h2 class="bolum-baslik" data-i18n="one.baslik">Öne çıkanlar</h2>
+        <ol id="oneCikanlar" class="numarali"></ol>
+      </aside>
+    </div>
+    <p id="mesaj" class="mesaj"></p>
+  </main>
+
+  <!-- ALT KISIM -->
+  <footer class="alt">
+    <div class="kapsayici">
+      <p data-i18n="alt.aciklama">Haberler, birden çok kaynaktaki bilgiler karşılaştırılarak derlenir ve yeniden yazılır.</p>
+      <p id="guncellemeBilgisi"></p>
+    </div>
+  </footer>
+
+  <!-- Sıra önemli: önce dil sistemi, sonra ortak parçalar, en son sayfanın kendi kodu -->
+  <script src="js/i18n.js"></script>
+  <script src="js/ortak.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

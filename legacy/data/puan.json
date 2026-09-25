@@ -1,0 +1,2931 @@
+{
+ "guncelleme": "2026-09-20",
+ "ligler": [
+  {
+   "kod": "super-lig",
+   "tarih": "2026-09-23",
+   "kaynak": "Sporx.com — 6. hafta sonrası güncel tablo",
+   "tablo": [
+    {
+     "takim": "Amed SK",
+     "o": 6,
+     "g": 4,
+     "b": 1,
+     "m": 1,
+     "y": 8,
+     "p": 13,
+     "gf": 15
+    },
+    {
+     "takim": "Galatasaray",
+     "o": 6,
+     "g": 4,
+     "b": 1,
+     "m": 1,
+     "y": 3,
+     "p": 13,
+     "gf": 13
+    },
+    {
+     "takim": "Beşiktaş",
+     "o": 6,
+     "g": 4,
+     "b": 0,
+     "m": 2,
+     "y": 7,
+     "p": 12,
+     "gf": 14
+    },
+    {
+     "takim": "Kocaelispor",
+     "o": 6,
+     "g": 4,
+     "b": 0,
+     "m": 2,
+     "y": 3,
+     "p": 12,
+     "gf": 7
+    },
+    {
+     "takim": "Alanyaspor",
+     "o": 6,
+     "g": 3,
+     "b": 2,
+     "m": 1,
+     "y": 2,
+     "p": 11,
+     "gf": 8
+    },
+    {
+     "takim": "Fenerbahçe",
+     "o": 6,
+     "g": 3,
+     "b": 1,
+     "m": 2,
+     "y": 10,
+     "p": 10,
+     "gf": 16
+    },
+    {
+     "takim": "Trabzonspor",
+     "o": 6,
+     "g": 3,
+     "b": 1,
+     "m": 2,
+     "y": 8,
+     "p": 10,
+     "gf": 13
+    },
+    {
+     "takim": "Kasımpaşa",
+     "o": 6,
+     "g": 2,
+     "b": 4,
+     "m": 0,
+     "y": 2,
+     "p": 10,
+     "gf": 7
+    },
+    {
+     "takim": "Çaykur Rizespor",
+     "o": 6,
+     "g": 3,
+     "b": 1,
+     "m": 2,
+     "y": 1,
+     "p": 10,
+     "gf": 7
+    },
+    {
+     "takim": "Gaziantep FK",
+     "o": 6,
+     "g": 2,
+     "b": 2,
+     "m": 2,
+     "y": 0,
+     "p": 8,
+     "gf": 7
+    },
+    {
+     "takim": "Çorum FK",
+     "o": 6,
+     "g": 2,
+     "b": 1,
+     "m": 3,
+     "y": 1,
+     "p": 7,
+     "gf": 13
+    },
+    {
+     "takim": "Başakşehir",
+     "o": 6,
+     "g": 2,
+     "b": 1,
+     "m": 3,
+     "y": -1,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "Gençlerbirliği",
+     "o": 6,
+     "g": 2,
+     "b": 1,
+     "m": 3,
+     "y": -8,
+     "p": 7,
+     "gf": 5
+    },
+    {
+     "takim": "Erzurumspor FK",
+     "o": 6,
+     "g": 2,
+     "b": 1,
+     "m": 3,
+     "y": -8,
+     "p": 7,
+     "gf": 3
+    },
+    {
+     "takim": "Konyaspor",
+     "o": 6,
+     "g": 1,
+     "b": 1,
+     "m": 4,
+     "y": -4,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Samsunspor",
+     "o": 6,
+     "g": 1,
+     "b": 1,
+     "m": 4,
+     "y": -6,
+     "p": 4,
+     "gf": 6
+    },
+    {
+     "takim": "Göztepe",
+     "o": 6,
+     "g": 0,
+     "b": 3,
+     "m": 3,
+     "y": -4,
+     "p": 3,
+     "gf": 11
+    },
+    {
+     "takim": "Eyüpspor",
+     "o": 6,
+     "g": 1,
+     "b": 0,
+     "m": 5,
+     "y": -14,
+     "p": 3,
+     "gf": 2
+    }
+   ],
+   "not": {
+    "tr": "19 Eylül itibarıyla, 6. hafta maçları öncesi.",
+    "en": "As of 19 September, before the matchweek-6 games."
+   }
+  },
+  {
+   "kod": "premier-lig",
+   "tarih": "2026-09-20",
+   "kaynak": "Khel Now (5. hafta / matchday 5 sonrası tam tablo); gol farkları puan+GD verisinden hesaplandı",
+   "tablo": [
+    {
+     "takim": "Manchester City",
+     "o": 5,
+     "g": 5,
+     "b": 0,
+     "m": 0,
+     "y": 8,
+     "p": 15,
+     "gf": 13
+    },
+    {
+     "takim": "Arsenal",
+     "o": 5,
+     "g": 4,
+     "b": 0,
+     "m": 1,
+     "y": 4,
+     "p": 12,
+     "gf": 9
+    },
+    {
+     "takim": "Brighton",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": 11,
+     "p": 10,
+     "gf": 16
+    },
+    {
+     "takim": "Brentford",
+     "o": 5,
+     "g": 2,
+     "b": 3,
+     "m": 0,
+     "y": 6,
+     "p": 9,
+     "gf": 10
+    },
+    {
+     "takim": "Leeds United",
+     "o": 5,
+     "g": 2,
+     "b": 3,
+     "m": 0,
+     "y": 4,
+     "p": 9,
+     "gf": 9
+    },
+    {
+     "takim": "Liverpool",
+     "o": 5,
+     "g": 2,
+     "b": 3,
+     "m": 0,
+     "y": 3,
+     "p": 9,
+     "gf": 8
+    },
+    {
+     "takim": "Everton",
+     "o": 5,
+     "g": 2,
+     "b": 3,
+     "m": 0,
+     "y": 3,
+     "p": 9,
+     "gf": 8
+    },
+    {
+     "takim": "Hull City",
+     "o": 5,
+     "g": 2,
+     "b": 2,
+     "m": 1,
+     "y": 2,
+     "p": 8,
+     "gf": 7
+    },
+    {
+     "takim": "Newcastle United",
+     "o": 5,
+     "g": 2,
+     "b": 2,
+     "m": 1,
+     "y": 0,
+     "p": 8,
+     "gf": 5
+    },
+    {
+     "takim": "Chelsea",
+     "o": 5,
+     "g": 2,
+     "b": 1,
+     "m": 2,
+     "y": -2,
+     "p": 7,
+     "gf": 5
+    },
+    {
+     "takim": "Ipswich Town",
+     "o": 5,
+     "g": 2,
+     "b": 0,
+     "m": 3,
+     "y": -4,
+     "p": 6,
+     "gf": 4
+    },
+    {
+     "takim": "Manchester United",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": 0,
+     "p": 5,
+     "gf": 5
+    },
+    {
+     "takim": "Nottingham Forest",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": -1,
+     "p": 5,
+     "gf": 4
+    },
+    {
+     "takim": "Sunderland",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -4,
+     "p": 4,
+     "gf": 5
+    },
+    {
+     "takim": "Crystal Palace",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -5,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Aston Villa",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -5,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Bournemouth",
+     "o": 5,
+     "g": 0,
+     "b": 3,
+     "m": 2,
+     "y": -2,
+     "p": 3,
+     "gf": 5
+    },
+    {
+     "takim": "Coventry City",
+     "o": 5,
+     "g": 1,
+     "b": 0,
+     "m": 4,
+     "y": -9,
+     "p": 3,
+     "gf": 3
+    },
+    {
+     "takim": "Fulham",
+     "o": 5,
+     "g": 0,
+     "b": 2,
+     "m": 3,
+     "y": -3,
+     "p": 2,
+     "gf": 4
+    },
+    {
+     "takim": "Tottenham",
+     "o": 5,
+     "g": 0,
+     "b": 2,
+     "m": 3,
+     "y": -6,
+     "p": 2,
+     "gf": 3
+    }
+   ]
+  },
+  {
+   "kod": "la-liga",
+   "tarih": "2026-09-22",
+   "kaynak": "LALIGA resmi sitesi (laliga.com) — 7. hafta (matchday 7) final tablosu",
+   "tablo": [
+    {
+     "takim": "Barcelona",
+     "o": 7,
+     "g": 7,
+     "b": 0,
+     "m": 0,
+     "y": 24,
+     "p": 21,
+     "gf": 31
+    },
+    {
+     "takim": "Atlético Madrid",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 9,
+     "p": 16,
+     "gf": 16
+    },
+    {
+     "takim": "Real Betis",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 2,
+     "p": 16,
+     "gf": 9
+    },
+    {
+     "takim": "Real Madrid",
+     "o": 7,
+     "g": 5,
+     "b": 0,
+     "m": 2,
+     "y": 10,
+     "p": 15,
+     "gf": 18
+    },
+    {
+     "takim": "Sevilla",
+     "o": 7,
+     "g": 4,
+     "b": 1,
+     "m": 2,
+     "y": 1,
+     "p": 13,
+     "gf": 10
+    },
+    {
+     "takim": "Alavés",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 5,
+     "p": 11,
+     "gf": 11
+    },
+    {
+     "takim": "Deportivo La Coruña",
+     "o": 7,
+     "g": 2,
+     "b": 4,
+     "m": 1,
+     "y": 2,
+     "p": 10,
+     "gf": 10
+    },
+    {
+     "takim": "Real Sociedad",
+     "o": 7,
+     "g": 3,
+     "b": 1,
+     "m": 3,
+     "y": -4,
+     "p": 10,
+     "gf": 9
+    },
+    {
+     "takim": "Villarreal",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": 1,
+     "p": 8,
+     "gf": 13
+    },
+    {
+     "takim": "Athletic Bilbao",
+     "o": 6,
+     "g": 2,
+     "b": 2,
+     "m": 2,
+     "y": 1,
+     "p": 8,
+     "gf": 7
+    },
+    {
+     "takim": "Getafe",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -3,
+     "p": 8,
+     "gf": 4
+    },
+    {
+     "takim": "Rayo Vallecano",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -5,
+     "p": 8,
+     "gf": 11
+    },
+    {
+     "takim": "Osasuna",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -7,
+     "p": 8,
+     "gf": 6
+    },
+    {
+     "takim": "Celta Vigo",
+     "o": 7,
+     "g": 1,
+     "b": 4,
+     "m": 2,
+     "y": 2,
+     "p": 7,
+     "gf": 8
+    },
+    {
+     "takim": "Espanyol",
+     "o": 7,
+     "g": 2,
+     "b": 1,
+     "m": 4,
+     "y": 0,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "Racing Santander",
+     "o": 7,
+     "g": 2,
+     "b": 1,
+     "m": 4,
+     "y": -10,
+     "p": 7,
+     "gf": 11
+    },
+    {
+     "takim": "Levante",
+     "o": 6,
+     "g": 1,
+     "b": 2,
+     "m": 3,
+     "y": -4,
+     "p": 5,
+     "gf": 8
+    },
+    {
+     "takim": "Elche",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -6,
+     "p": 5,
+     "gf": 11
+    },
+    {
+     "takim": "Valencia",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -9,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Málaga",
+     "o": 7,
+     "g": 0,
+     "b": 3,
+     "m": 4,
+     "y": -9,
+     "p": 3,
+     "gf": 3
+    }
+   ]
+  },
+  {
+   "kod": "serie-a",
+   "tarih": "2026-09-20",
+   "kaynak": "Sky Sport Italia (classifica Serie A) — 5. hafta (giornata 5) sonrası",
+   "tablo": [
+    {
+     "takim": "Roma",
+     "o": 5,
+     "g": 4,
+     "b": 1,
+     "m": 0,
+     "y": 11,
+     "p": 13,
+     "gf": 14
+    },
+    {
+     "takim": "Inter",
+     "o": 5,
+     "g": 4,
+     "b": 1,
+     "m": 0,
+     "y": 7,
+     "p": 13,
+     "gf": 15
+    },
+    {
+     "takim": "Lazio",
+     "o": 5,
+     "g": 4,
+     "b": 1,
+     "m": 0,
+     "y": 5,
+     "p": 13,
+     "gf": 8
+    },
+    {
+     "takim": "Cagliari",
+     "o": 5,
+     "g": 4,
+     "b": 0,
+     "m": 1,
+     "y": 3,
+     "p": 12,
+     "gf": 5
+    },
+    {
+     "takim": "Milan",
+     "o": 5,
+     "g": 3,
+     "b": 2,
+     "m": 0,
+     "y": 6,
+     "p": 11,
+     "gf": 10
+    },
+    {
+     "takim": "Frosinone",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": 5,
+     "p": 10,
+     "gf": 9
+    },
+    {
+     "takim": "Juventus",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": 4,
+     "p": 10,
+     "gf": 8
+    },
+    {
+     "takim": "Como",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": 3,
+     "p": 10,
+     "gf": 9
+    },
+    {
+     "takim": "Napoli",
+     "o": 5,
+     "g": 2,
+     "b": 1,
+     "m": 2,
+     "y": 1,
+     "p": 7,
+     "gf": 7
+    },
+    {
+     "takim": "Sassuolo",
+     "o": 5,
+     "g": 2,
+     "b": 1,
+     "m": 2,
+     "y": 0,
+     "p": 7,
+     "gf": 9
+    },
+    {
+     "takim": "Atalanta",
+     "o": 5,
+     "g": 2,
+     "b": 0,
+     "m": 3,
+     "y": -2,
+     "p": 6,
+     "gf": 5
+    },
+    {
+     "takim": "Lecce",
+     "o": 5,
+     "g": 2,
+     "b": 0,
+     "m": 3,
+     "y": -5,
+     "p": 6,
+     "gf": 5
+    },
+    {
+     "takim": "Udinese",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -3,
+     "p": 4,
+     "gf": 8
+    },
+    {
+     "takim": "Torino",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -3,
+     "p": 4,
+     "gf": 5
+    },
+    {
+     "takim": "Parma",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -3,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Monza",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -4,
+     "p": 4,
+     "gf": 8
+    },
+    {
+     "takim": "Fiorentina",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -6,
+     "p": 4,
+     "gf": 6
+    },
+    {
+     "takim": "Bologna",
+     "o": 5,
+     "g": 0,
+     "b": 2,
+     "m": 3,
+     "y": -3,
+     "p": 2,
+     "gf": 3
+    },
+    {
+     "takim": "Genoa",
+     "o": 5,
+     "g": 0,
+     "b": 1,
+     "m": 4,
+     "y": -7,
+     "p": 1,
+     "gf": 3
+    },
+    {
+     "takim": "Venezia",
+     "o": 5,
+     "g": 0,
+     "b": 0,
+     "m": 5,
+     "y": -9,
+     "p": 0,
+     "gf": 4
+    }
+   ]
+  },
+  {
+   "kod": "bundesliga",
+   "tarih": "2026-09-20",
+   "kaynak": "Bundesliga resmi sitesi (bundesliga.com) — 4. hafta (matchday 4) sonrası",
+   "tablo": [
+    {
+     "takim": "Borussia Dortmund",
+     "o": 4,
+     "g": 4,
+     "b": 0,
+     "m": 0,
+     "y": 7,
+     "p": 12,
+     "gf": 9
+    },
+    {
+     "takim": "Bayern München",
+     "o": 4,
+     "g": 3,
+     "b": 1,
+     "m": 0,
+     "y": 12,
+     "p": 10,
+     "gf": 14
+    },
+    {
+     "takim": "SC Freiburg",
+     "o": 4,
+     "g": 3,
+     "b": 1,
+     "m": 0,
+     "y": 9,
+     "p": 10,
+     "gf": 12
+    },
+    {
+     "takim": "FC Augsburg",
+     "o": 4,
+     "g": 2,
+     "b": 1,
+     "m": 1,
+     "y": 5,
+     "p": 7,
+     "gf": 11
+    },
+    {
+     "takim": "Bayer Leverkusen",
+     "o": 4,
+     "g": 2,
+     "b": 1,
+     "m": 1,
+     "y": 5,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "Mainz 05",
+     "o": 4,
+     "g": 2,
+     "b": 1,
+     "m": 1,
+     "y": 4,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "Elversberg",
+     "o": 4,
+     "g": 2,
+     "b": 1,
+     "m": 1,
+     "y": 1,
+     "p": 7,
+     "gf": 8
+    },
+    {
+     "takim": "Werder Bremen",
+     "o": 4,
+     "g": 2,
+     "b": 1,
+     "m": 1,
+     "y": 0,
+     "p": 7,
+     "gf": 8
+    },
+    {
+     "takim": "RB Leipzig",
+     "o": 4,
+     "g": 2,
+     "b": 0,
+     "m": 2,
+     "y": 4,
+     "p": 6,
+     "gf": 9
+    },
+    {
+     "takim": "Eintracht Frankfurt",
+     "o": 4,
+     "g": 1,
+     "b": 2,
+     "m": 1,
+     "y": -1,
+     "p": 5,
+     "gf": 9
+    },
+    {
+     "takim": "Schalke 04",
+     "o": 4,
+     "g": 1,
+     "b": 2,
+     "m": 1,
+     "y": -1,
+     "p": 5,
+     "gf": 3
+    },
+    {
+     "takim": "SC Paderborn",
+     "o": 4,
+     "g": 1,
+     "b": 1,
+     "m": 2,
+     "y": -2,
+     "p": 4,
+     "gf": 3
+    },
+    {
+     "takim": "1. FC Köln",
+     "o": 4,
+     "g": 1,
+     "b": 1,
+     "m": 2,
+     "y": -3,
+     "p": 4,
+     "gf": 6
+    },
+    {
+     "takim": "Hoffenheim",
+     "o": 4,
+     "g": 1,
+     "b": 0,
+     "m": 3,
+     "y": -3,
+     "p": 3,
+     "gf": 7
+    },
+    {
+     "takim": "VfB Stuttgart",
+     "o": 4,
+     "g": 1,
+     "b": 0,
+     "m": 3,
+     "y": -3,
+     "p": 3,
+     "gf": 6
+    },
+    {
+     "takim": "Hamburger SV",
+     "o": 4,
+     "g": 1,
+     "b": 0,
+     "m": 3,
+     "y": -11,
+     "p": 3,
+     "gf": 2
+    },
+    {
+     "takim": "Union Berlin",
+     "o": 4,
+     "g": 0,
+     "b": 1,
+     "m": 3,
+     "y": -13,
+     "p": 1,
+     "gf": 4
+    },
+    {
+     "takim": "Gladbach",
+     "o": 4,
+     "g": 0,
+     "b": 0,
+     "m": 4,
+     "y": -10,
+     "p": 0,
+     "gf": 6
+    }
+   ]
+  },
+  {
+   "kod": "ligue-1",
+   "tarih": "2026-09-23",
+   "kaynak": "footmercato.net — 5. hafta (tüm maçlar tamamlandı: Auxerre-Brest, Nice-Lille, Marseille-PSG dahil)",
+   "tablo": [
+    {
+     "takim": "Monaco",
+     "o": 5,
+     "g": 4,
+     "b": 1,
+     "m": 0,
+     "y": 5,
+     "p": 13,
+     "gf": 8
+    },
+    {
+     "takim": "Lyon",
+     "o": 5,
+     "g": 3,
+     "b": 2,
+     "m": 0,
+     "y": 8,
+     "p": 11,
+     "gf": 10
+    },
+    {
+     "takim": "Paris FC",
+     "o": 5,
+     "g": 3,
+     "b": 2,
+     "m": 0,
+     "y": 5,
+     "p": 11,
+     "gf": 8
+    },
+    {
+     "takim": "Lille",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": 4,
+     "p": 10,
+     "gf": 8
+    },
+    {
+     "takim": "Rennes",
+     "o": 5,
+     "g": 3,
+     "b": 1,
+     "m": 1,
+     "y": -1,
+     "p": 10,
+     "gf": 8
+    },
+    {
+     "takim": "Paris SG",
+     "o": 5,
+     "g": 2,
+     "b": 2,
+     "m": 1,
+     "y": 1,
+     "p": 8,
+     "gf": 8
+    },
+    {
+     "takim": "Angers",
+     "o": 5,
+     "g": 2,
+     "b": 1,
+     "m": 2,
+     "y": 1,
+     "p": 7,
+     "gf": 6
+    },
+    {
+     "takim": "Strasbourg",
+     "o": 5,
+     "g": 2,
+     "b": 1,
+     "m": 2,
+     "y": 0,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "Le Mans",
+     "o": 5,
+     "g": 1,
+     "b": 3,
+     "m": 1,
+     "y": 0,
+     "p": 6,
+     "gf": 9
+    },
+    {
+     "takim": "Auxerre",
+     "o": 5,
+     "g": 2,
+     "b": 0,
+     "m": 3,
+     "y": -5,
+     "p": 6,
+     "gf": 7
+    },
+    {
+     "takim": "Brest",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": -1,
+     "p": 5,
+     "gf": 7
+    },
+    {
+     "takim": "Lorient",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": -1,
+     "p": 5,
+     "gf": 5
+    },
+    {
+     "takim": "Toulouse",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": -2,
+     "p": 5,
+     "gf": 7
+    },
+    {
+     "takim": "Nice",
+     "o": 5,
+     "g": 1,
+     "b": 2,
+     "m": 2,
+     "y": -3,
+     "p": 5,
+     "gf": 3
+    },
+    {
+     "takim": "Lens",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": 0,
+     "p": 4,
+     "gf": 9
+    },
+    {
+     "takim": "Troyes",
+     "o": 5,
+     "g": 1,
+     "b": 1,
+     "m": 3,
+     "y": -7,
+     "p": 4,
+     "gf": 4
+    },
+    {
+     "takim": "Marseille",
+     "o": 5,
+     "g": 1,
+     "b": 0,
+     "m": 4,
+     "y": -1,
+     "p": 3,
+     "gf": 7
+    },
+    {
+     "takim": "Le Havre",
+     "o": 5,
+     "g": 0,
+     "b": 2,
+     "m": 3,
+     "y": -3,
+     "p": 2,
+     "gf": 4
+    }
+   ]
+  },
+  {
+   "kod": "sampiyonlar-ligi",
+   "tarih": "2026-09-10",
+   "kaynak": "Wikipedia / UEFA",
+   "tablo": [
+    {
+     "takim": "Paris Saint-Germain",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 6,
+     "y": 5,
+     "p": 3
+    },
+    {
+     "takim": "Bayern Münih",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 5,
+     "y": 5,
+     "p": 3
+    },
+    {
+     "takim": "Barcelona",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 5,
+     "y": 4,
+     "p": 3
+    },
+    {
+     "takim": "Manchester United",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 4,
+     "y": 4,
+     "p": 3
+    },
+    {
+     "takim": "Como",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 4,
+     "y": 3,
+     "p": 3
+    },
+    {
+     "takim": "Sporting CP",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "VfB Stuttgart",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "Manchester City",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "Aston Villa",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Borussia Dortmund",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Lens",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Real Betis",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Liverpool",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Real Madrid",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "AEK Athens",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 1,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Arsenal",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 1,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Fenerbahçe",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 1,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "PSV Eindhoven",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 1,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Roma",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 1,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Shakhtar Donetsk",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 1,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Club Brugge",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 2,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Lille",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 2,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Slavia Prague",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 2,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Villarreal",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 2,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Atlético Madrid",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Inter",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "LASK",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Napoli",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Galatasaray",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Viking",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Porto",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "RB Leipzig",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -3,
+     "p": 0
+    },
+    {
+     "takim": "Feyenoord",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -4,
+     "p": 0
+    },
+    {
+     "takim": "Sabah",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -4,
+     "p": 0
+    },
+    {
+     "takim": "Slovan Bratislava",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -5,
+     "p": 0
+    },
+    {
+     "takim": "Bodø/Glimt",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -5,
+     "p": 0
+    }
+   ],
+   "not": {
+    "tr": "Ligue aşaması, 1. hafta sonrası. Eşitlikte sıralama averaj, sonra atılan gole göre yapılmıştır; resmi UEFA sıralamasıyla küçük farklar olabilir.",
+    "en": "League phase after matchday 1. Ties are ordered by goal difference then goals scored; may differ slightly from the official UEFA ranking."
+   }
+  },
+  {
+   "kod": "avrupa-ligi",
+   "tarih": "2026-09-17",
+   "kaynak": "Takvim",
+   "tablo": [
+    {
+     "takim": "Juventus",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 5,
+     "y": 5,
+     "p": 3
+    },
+    {
+     "takim": "Crystal Palace",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 4,
+     "y": 4,
+     "p": 3
+    },
+    {
+     "takim": "Beşiktaş",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 4,
+     "y": 3,
+     "p": 3
+    },
+    {
+     "takim": "Sparta Prague",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 4,
+     "y": 3,
+     "p": 3
+    },
+    {
+     "takim": "Union Saint-Gilloise",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 3,
+     "p": 3
+    },
+    {
+     "takim": "Ferencváros",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 3,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "Bayer Leverkusen",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "Benfica",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "OFI",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 2,
+     "p": 3
+    },
+    {
+     "takim": "Bournemouth",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Lyon",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Olympiakos",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Torreense",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 2,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Omonia Nicosia",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 1,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Salzburg",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 1,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Sunderland",
+     "o": 1,
+     "g": 1,
+     "b": 0,
+     "m": 0,
+     "gf": 1,
+     "y": 1,
+     "p": 3
+    },
+    {
+     "takim": "Dinamo Zagreb",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 0,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Hapoel Beer Sheva",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 0,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Rennes",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 0,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Sturm Graz",
+     "o": 1,
+     "g": 0,
+     "b": 1,
+     "m": 0,
+     "gf": 0,
+     "y": 0,
+     "p": 1
+    },
+    {
+     "takim": "Anderlecht",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Jagiellonia Białystok",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Lilleström",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Real Sociedad",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "AZ Alkmaar",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Celta Vigo",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Levski Sofia",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -1,
+     "p": 0
+    },
+    {
+     "takim": "Celtic",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Celje",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Hoffenheim",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Milan",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -2,
+     "p": 0
+    },
+    {
+     "takim": "Ararat-Armenia",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -3,
+     "p": 0
+    },
+    {
+     "takim": "Marsilya",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 1,
+     "y": -3,
+     "p": 0
+    },
+    {
+     "takim": "Viktoria Plzen",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -3,
+     "p": 0
+    },
+    {
+     "takim": "Lech Poznan",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -4,
+     "p": 0
+    },
+    {
+     "takim": "NEC Nijmegen",
+     "o": 1,
+     "g": 0,
+     "b": 0,
+     "m": 1,
+     "gf": 0,
+     "y": -5,
+     "p": 0
+    }
+   ],
+   "not": {
+    "tr": "Ligue aşaması, 1. hafta sonrası. Eşitlikte sıralama averaj, sonra atılan gole göre yapılmıştır; resmi UEFA sıralamasıyla küçük farklar olabilir.",
+    "en": "League phase after matchday 1. Ties are ordered by goal difference then goals scored; may differ slightly from the official UEFA ranking."
+   }
+  },
+  {
+   "kod": "belcika-ligi",
+   "tarih": "2026-09-20",
+   "kaynak": "Voetbalkrant ve Sporza (7. hafta sonu tablosu, iki kaynak birebir aynı)",
+   "tablo": [
+    {
+     "takim": "Union SG",
+     "o": 7,
+     "g": 6,
+     "b": 1,
+     "m": 0,
+     "y": 18,
+     "p": 19,
+     "gf": 21
+    },
+    {
+     "takim": "Gent",
+     "o": 7,
+     "g": 6,
+     "b": 1,
+     "m": 0,
+     "y": 9,
+     "p": 19,
+     "gf": 13
+    },
+    {
+     "takim": "Club Brugge",
+     "o": 7,
+     "g": 6,
+     "b": 0,
+     "m": 1,
+     "y": 12,
+     "p": 18,
+     "gf": 15
+    },
+    {
+     "takim": "Charleroi",
+     "o": 7,
+     "g": 6,
+     "b": 0,
+     "m": 1,
+     "y": 8,
+     "p": 18,
+     "gf": 15
+    },
+    {
+     "takim": "Anderlecht",
+     "o": 7,
+     "g": 4,
+     "b": 1,
+     "m": 2,
+     "y": 2,
+     "p": 13,
+     "gf": 7
+    },
+    {
+     "takim": "Zulte Waregem",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 3,
+     "p": 11,
+     "gf": 10
+    },
+    {
+     "takim": "Standard Liège",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 1,
+     "p": 11,
+     "gf": 13
+    },
+    {
+     "takim": "Westerlo",
+     "o": 7,
+     "g": 3,
+     "b": 1,
+     "m": 3,
+     "y": -1,
+     "p": 10,
+     "gf": 15
+    },
+    {
+     "takim": "Beveren",
+     "o": 7,
+     "g": 3,
+     "b": 0,
+     "m": 4,
+     "y": -4,
+     "p": 9,
+     "gf": 7
+    },
+    {
+     "takim": "Genk",
+     "o": 7,
+     "g": 2,
+     "b": 3,
+     "m": 2,
+     "y": 1,
+     "p": 9,
+     "gf": 13
+    },
+    {
+     "takim": "Sint-Truiden",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": 0,
+     "p": 8,
+     "gf": 12
+    },
+    {
+     "takim": "Lommel",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -2,
+     "p": 8,
+     "gf": 6
+    },
+    {
+     "takim": "Antwerp",
+     "o": 7,
+     "g": 2,
+     "b": 1,
+     "m": 4,
+     "y": -4,
+     "p": 7,
+     "gf": 11
+    },
+    {
+     "takim": "La Louvière",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -7,
+     "p": 4,
+     "gf": 7
+    },
+    {
+     "takim": "OH Leuven",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -8,
+     "p": 4,
+     "gf": 5
+    },
+    {
+     "takim": "Kortrijk",
+     "o": 7,
+     "g": 1,
+     "b": 0,
+     "m": 6,
+     "y": -13,
+     "p": 3,
+     "gf": 2
+    },
+    {
+     "takim": "Cercle Brugge",
+     "o": 7,
+     "g": 0,
+     "b": 3,
+     "m": 4,
+     "y": -6,
+     "p": 3,
+     "gf": 8
+    },
+    {
+     "takim": "Mechelen",
+     "o": 7,
+     "g": 0,
+     "b": 3,
+     "m": 4,
+     "y": -9,
+     "p": 3,
+     "gf": 5
+    }
+   ]
+  },
+  {
+   "kod": "danimarka-ligi",
+   "tarih": "2026-09-20",
+   "kaynak": "Bold.dk (9. hafta tablosu) ve SuperStats; 20 Eylül maçları eklenerek hesaplandı",
+   "tablo": [
+    {
+     "takim": "København",
+     "o": 9,
+     "g": 8,
+     "b": 0,
+     "m": 1,
+     "y": 15,
+     "p": 24,
+     "gf": 23
+    },
+    {
+     "takim": "Midtjylland",
+     "o": 9,
+     "g": 5,
+     "b": 4,
+     "m": 0,
+     "y": 8,
+     "p": 19,
+     "gf": 17
+    },
+    {
+     "takim": "Viborg",
+     "o": 9,
+     "g": 5,
+     "b": 2,
+     "m": 2,
+     "y": 7,
+     "p": 17,
+     "gf": 15
+    },
+    {
+     "takim": "Nordsjælland",
+     "o": 9,
+     "g": 5,
+     "b": 2,
+     "m": 2,
+     "y": 4,
+     "p": 17,
+     "gf": 14
+    },
+    {
+     "takim": "Brøndby",
+     "o": 9,
+     "g": 4,
+     "b": 1,
+     "m": 4,
+     "y": -3,
+     "p": 13,
+     "gf": 12
+    },
+    {
+     "takim": "Horsens",
+     "o": 9,
+     "g": 3,
+     "b": 2,
+     "m": 4,
+     "y": -1,
+     "p": 11,
+     "gf": 15
+    },
+    {
+     "takim": "Silkeborg",
+     "o": 9,
+     "g": 2,
+     "b": 4,
+     "m": 3,
+     "y": 0,
+     "p": 10,
+     "gf": 12
+    },
+    {
+     "takim": "Randers",
+     "o": 9,
+     "g": 3,
+     "b": 1,
+     "m": 5,
+     "y": -3,
+     "p": 10,
+     "gf": 11
+    },
+    {
+     "takim": "OB",
+     "o": 9,
+     "g": 2,
+     "b": 3,
+     "m": 4,
+     "y": -6,
+     "p": 9,
+     "gf": 8
+    },
+    {
+     "takim": "Lyngby",
+     "o": 9,
+     "g": 1,
+     "b": 4,
+     "m": 4,
+     "y": -6,
+     "p": 7,
+     "gf": 10
+    },
+    {
+     "takim": "AGF",
+     "o": 9,
+     "g": 0,
+     "b": 5,
+     "m": 4,
+     "y": -6,
+     "p": 5,
+     "gf": 11
+    },
+    {
+     "takim": "Sønderjyske",
+     "o": 9,
+     "g": 1,
+     "b": 2,
+     "m": 6,
+     "y": -9,
+     "p": 5,
+     "gf": 12
+    }
+   ]
+  },
+  {
+   "kod": "eredivisie",
+   "tarih": "2026-09-20",
+   "kaynak": "VI.nl (7. hafta sonrası); Wikipedia 13 Eylül tablosu + 7. hafta sonuçlarıyla (Football Web Pages, Voetbalkrant) çapraz kontrol",
+   "tablo": [
+    {
+     "takim": "AZ",
+     "o": 7,
+     "g": 6,
+     "b": 1,
+     "m": 0,
+     "y": 12,
+     "p": 19,
+     "gf": 18
+    },
+    {
+     "takim": "Feyenoord",
+     "o": 7,
+     "g": 5,
+     "b": 2,
+     "m": 0,
+     "y": 18,
+     "p": 17,
+     "gf": 25
+    },
+    {
+     "takim": "PSV",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 14,
+     "p": 16,
+     "gf": 24
+    },
+    {
+     "takim": "FC Twente",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 8,
+     "p": 16,
+     "gf": 15
+    },
+    {
+     "takim": "Ajax",
+     "o": 7,
+     "g": 4,
+     "b": 2,
+     "m": 1,
+     "y": 12,
+     "p": 14,
+     "gf": 21
+    },
+    {
+     "takim": "Fortuna Sittard",
+     "o": 7,
+     "g": 4,
+     "b": 1,
+     "m": 2,
+     "y": -1,
+     "p": 13,
+     "gf": 13
+    },
+    {
+     "takim": "Excelsior",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 6,
+     "p": 11,
+     "gf": 15
+    },
+    {
+     "takim": "FC Groningen",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 2,
+     "p": 11,
+     "gf": 15
+    },
+    {
+     "takim": "Go Ahead Eagles",
+     "o": 7,
+     "g": 2,
+     "b": 4,
+     "m": 1,
+     "y": 2,
+     "p": 10,
+     "gf": 16
+    },
+    {
+     "takim": "SC Heerenveen",
+     "o": 7,
+     "g": 2,
+     "b": 3,
+     "m": 2,
+     "y": 2,
+     "p": 9,
+     "gf": 11
+    },
+    {
+     "takim": "NEC",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -1,
+     "p": 8,
+     "gf": 12
+    },
+    {
+     "takim": "Sparta Rotterdam",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -7,
+     "p": 5,
+     "gf": 10
+    },
+    {
+     "takim": "Telstar",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -7,
+     "p": 5,
+     "gf": 5
+    },
+    {
+     "takim": "SC Cambuur",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -9,
+     "p": 5,
+     "gf": 10
+    },
+    {
+     "takim": "FC Utrecht",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -13,
+     "p": 5,
+     "gf": 11
+    },
+    {
+     "takim": "PEC Zwolle",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -14,
+     "p": 4,
+     "gf": 6
+    },
+    {
+     "takim": "ADO Den Haag",
+     "o": 7,
+     "g": 0,
+     "b": 2,
+     "m": 5,
+     "y": -10,
+     "p": 2,
+     "gf": 7
+    },
+    {
+     "takim": "Willem II",
+     "o": 7,
+     "g": 0,
+     "b": 2,
+     "m": 5,
+     "y": -14,
+     "p": 2,
+     "gf": 6
+    }
+   ]
+  },
+  {
+   "kod": "iskocya-ligi",
+   "tarih": "2026-09-20",
+   "kaynak": "SPFL (puan ve averaj) ve Sky Sports (19 Eylül tablosu); 20 Eylül Celtic-Rangers sonucu eklenerek hesaplandı",
+   "tablo": [
+    {
+     "takim": "Celtic",
+     "o": 7,
+     "g": 6,
+     "b": 0,
+     "m": 1,
+     "y": 10,
+     "p": 18,
+     "gf": 14
+    },
+    {
+     "takim": "Rangers",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 4,
+     "p": 16,
+     "gf": 8
+    },
+    {
+     "takim": "Hearts",
+     "o": 7,
+     "g": 4,
+     "b": 1,
+     "m": 2,
+     "y": 6,
+     "p": 13,
+     "gf": 14
+    },
+    {
+     "takim": "Dundee",
+     "o": 7,
+     "g": 3,
+     "b": 1,
+     "m": 3,
+     "y": 2,
+     "p": 10,
+     "gf": 9
+    },
+    {
+     "takim": "St Mirren",
+     "o": 7,
+     "g": 3,
+     "b": 1,
+     "m": 3,
+     "y": -1,
+     "p": 10,
+     "gf": 8
+    },
+    {
+     "takim": "St Johnstone",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -1,
+     "p": 8,
+     "gf": 9
+    },
+    {
+     "takim": "Aberdeen",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -1,
+     "p": 8,
+     "gf": 7
+    },
+    {
+     "takim": "Motherwell",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -2,
+     "p": 8,
+     "gf": 9
+    },
+    {
+     "takim": "Dundee United",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -2,
+     "p": 8,
+     "gf": 9
+    },
+    {
+     "takim": "Hibernian",
+     "o": 7,
+     "g": 2,
+     "b": 1,
+     "m": 4,
+     "y": -3,
+     "p": 7,
+     "gf": 8
+    },
+    {
+     "takim": "Falkirk",
+     "o": 7,
+     "g": 1,
+     "b": 3,
+     "m": 3,
+     "y": -3,
+     "p": 6,
+     "gf": 6
+    },
+    {
+     "takim": "Kilmarnock",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -9,
+     "p": 5,
+     "gf": 6
+    }
+   ],
+   "not": {
+    "tr": "20 Eylül itibarıyla, 7. hafta sonrası (milli ara).",
+    "en": "As of 20 September, after matchweek 7 (international break)."
+   }
+  },
+  {
+   "kod": "liga-portugal",
+   "tarih": "2026-09-21",
+   "kaynak": "Sports Mole, FOX Sports",
+   "not": {
+    "tr": "7. hafta sonu itibarıyla; Braga ve Gil Vicente'nin birer maçı eksik.",
+    "en": "After matchweek 7; Braga and Gil Vicente each have a game in hand."
+   },
+   "tablo": [
+    {
+     "takim": "FC Porto",
+     "o": 7,
+     "g": 7,
+     "b": 0,
+     "m": 0,
+     "y": 15,
+     "p": 21,
+     "gf": 18
+    },
+    {
+     "takim": "Benfica",
+     "o": 7,
+     "g": 5,
+     "b": 1,
+     "m": 1,
+     "y": 15,
+     "p": 16,
+     "gf": 22
+    },
+    {
+     "takim": "Sporting CP",
+     "o": 7,
+     "g": 4,
+     "b": 3,
+     "m": 0,
+     "y": 9,
+     "p": 15,
+     "gf": 17
+    },
+    {
+     "takim": "Santa Clara",
+     "o": 7,
+     "g": 4,
+     "b": 3,
+     "m": 0,
+     "y": 7,
+     "p": 15,
+     "gf": 11
+    },
+    {
+     "takim": "Arouca",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 3,
+     "p": 11,
+     "gf": 10
+    },
+    {
+     "takim": "SC Braga",
+     "o": 6,
+     "g": 3,
+     "b": 2,
+     "m": 1,
+     "y": 2,
+     "p": 11,
+     "gf": 7
+    },
+    {
+     "takim": "Académico de Viseu",
+     "o": 7,
+     "g": 3,
+     "b": 2,
+     "m": 2,
+     "y": 0,
+     "p": 11,
+     "gf": 9
+    },
+    {
+     "takim": "Estrela da Amadora",
+     "o": 7,
+     "g": 2,
+     "b": 4,
+     "m": 1,
+     "y": 0,
+     "p": 10,
+     "gf": 14
+    },
+    {
+     "takim": "Gil Vicente",
+     "o": 6,
+     "g": 2,
+     "b": 2,
+     "m": 2,
+     "y": 0,
+     "p": 8,
+     "gf": 5
+    },
+    {
+     "takim": "Alverca",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -2,
+     "p": 8,
+     "gf": 9
+    },
+    {
+     "takim": "Marítimo",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -4,
+     "p": 8,
+     "gf": 8
+    },
+    {
+     "takim": "Moreirense",
+     "o": 7,
+     "g": 2,
+     "b": 2,
+     "m": 3,
+     "y": -6,
+     "p": 8,
+     "gf": 8
+    },
+    {
+     "takim": "Famalicão",
+     "o": 7,
+     "g": 1,
+     "b": 4,
+     "m": 2,
+     "y": 2,
+     "p": 7,
+     "gf": 9
+    },
+    {
+     "takim": "Vitória de Guimarães",
+     "o": 7,
+     "g": 1,
+     "b": 2,
+     "m": 4,
+     "y": -3,
+     "p": 5,
+     "gf": 5
+    },
+    {
+     "takim": "Nacional",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -8,
+     "p": 4,
+     "gf": 7
+    },
+    {
+     "takim": "Rio Ave",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -10,
+     "p": 4,
+     "gf": 5
+    },
+    {
+     "takim": "Casa Pia",
+     "o": 7,
+     "g": 1,
+     "b": 1,
+     "m": 5,
+     "y": -13,
+     "p": 4,
+     "gf": 3
+    },
+    {
+     "takim": "Estoril Praia",
+     "o": 7,
+     "g": 0,
+     "b": 2,
+     "m": 5,
+     "y": -7,
+     "p": 2,
+     "gf": 3
+    }
+   ]
+  },
+  {
+   "kod": "norvec-ligi",
+   "tarih": "2026-09-20",
+   "kaynak": "Eliteserientabeller.com; Sky Sports (13 Eylül tablosu) + FOX Sports/Eurosport sonuçlarıyla hesaplanarak doğrulandı",
+   "tablo": [
+    {
+     "takim": "Viking",
+     "o": 21,
+     "g": 16,
+     "b": 2,
+     "m": 3,
+     "y": 34,
+     "p": 50,
+     "gf": 54
+    },
+    {
+     "takim": "Bodø/Glimt",
+     "o": 21,
+     "g": 16,
+     "b": 2,
+     "m": 3,
+     "y": 34,
+     "p": 50,
+     "gf": 53
+    },
+    {
+     "takim": "Tromsø",
+     "o": 21,
+     "g": 11,
+     "b": 5,
+     "m": 5,
+     "y": 11,
+     "p": 38,
+     "gf": 40
+    },
+    {
+     "takim": "Molde",
+     "o": 21,
+     "g": 11,
+     "b": 3,
+     "m": 7,
+     "y": 12,
+     "p": 36,
+     "gf": 44
+    },
+    {
+     "takim": "Rosenborg",
+     "o": 21,
+     "g": 10,
+     "b": 3,
+     "m": 8,
+     "y": 9,
+     "p": 33,
+     "gf": 39
+    },
+    {
+     "takim": "Lillestrøm",
+     "o": 21,
+     "g": 10,
+     "b": 2,
+     "m": 9,
+     "y": -1,
+     "p": 32,
+     "gf": 28
+    },
+    {
+     "takim": "Brann",
+     "o": 21,
+     "g": 9,
+     "b": 2,
+     "m": 10,
+     "y": 7,
+     "p": 29,
+     "gf": 39
+    },
+    {
+     "takim": "Fredrikstad",
+     "o": 21,
+     "g": 8,
+     "b": 4,
+     "m": 9,
+     "y": -7,
+     "p": 28,
+     "gf": 25
+    },
+    {
+     "takim": "Sarpsborg 08",
+     "o": 21,
+     "g": 6,
+     "b": 7,
+     "m": 8,
+     "y": -5,
+     "p": 25,
+     "gf": 24
+    },
+    {
+     "takim": "KFUM Oslo",
+     "o": 21,
+     "g": 7,
+     "b": 4,
+     "m": 10,
+     "y": -10,
+     "p": 25,
+     "gf": 25
+    },
+    {
+     "takim": "Sandefjord",
+     "o": 21,
+     "g": 6,
+     "b": 5,
+     "m": 10,
+     "y": -6,
+     "p": 23,
+     "gf": 21
+    },
+    {
+     "takim": "Vålerenga",
+     "o": 21,
+     "g": 6,
+     "b": 5,
+     "m": 10,
+     "y": -9,
+     "p": 23,
+     "gf": 34
+    },
+    {
+     "takim": "HamKam",
+     "o": 21,
+     "g": 6,
+     "b": 5,
+     "m": 10,
+     "y": -15,
+     "p": 23,
+     "gf": 29
+    },
+    {
+     "takim": "Aalesund",
+     "o": 21,
+     "g": 4,
+     "b": 9,
+     "m": 8,
+     "y": -13,
+     "p": 21,
+     "gf": 33
+    },
+    {
+     "takim": "Kristiansund",
+     "o": 21,
+     "g": 5,
+     "b": 4,
+     "m": 12,
+     "y": -19,
+     "p": 19,
+     "gf": 21
+    },
+    {
+     "takim": "Start",
+     "o": 21,
+     "g": 4,
+     "b": 4,
+     "m": 13,
+     "y": -22,
+     "p": 16,
+     "gf": 22
+    }
+   ],
+   "not": {
+    "tr": "20 Eylül itibarıyla, 22. hafta sonrası (ertelenen 12. hafta nedeniyle takımlar 21 maç oynadı). Viking ve Bodø/Glimt puan ve averajda eşit; Viking atılan golle önde.",
+    "en": "As of 20 September, after round 22 (teams have played 21 games because round 12 was postponed). Viking and Bodø/Glimt are level on points and goal difference; Viking lead on goals scored."
+   }
+  }
+ ],
+ "genelNot": {
+  "tr": "Kulüpler arasında oynanan maç sayısı farklı olabilir; tablolar kaynağın güncelleme tarihini yansıtır ve otomasyon ile yenilenir.",
+  "en": "Clubs may have played different numbers of games; tables reflect the source's update date and are refreshed by automation."
+ }
+}

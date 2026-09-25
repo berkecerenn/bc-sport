@@ -1,0 +1,2590 @@
+{
+  "guncelleme": "2026-09-19T23:30:00Z",
+  "kaynakNotu": {
+    "tr": "Sonuçlar birden çok haber kaynağından karşılaştırılarak alındı. Pazar programındaki saatler yerel kulüp/lig saatidir. Listede olmayan maçların sonucu henüz doğrulanmadı. UEFA sonuçları Wikipedia ve Takvim üzerinden doğrulandı.",
+    "en": "Results were cross-checked across several news sources. Sunday kick-off times are shown in the viewer's local time. Matches not listed have not been verified yet. UEFA results were verified via Wikipedia and Takvim."
+  },
+  "maclar": [
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "AEK Athens",
+        "kod": "AEK"
+      },
+      "dep": {
+        "ad": "LASK",
+        "kod": "LAS"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Club Brugge",
+        "kod": "CLU"
+      },
+      "dep": {
+        "ad": "Aston Villa",
+        "kod": "AST"
+      },
+      "skor": [
+        2,
+        3
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Borussia Dortmund",
+        "kod": "BOR"
+      },
+      "dep": {
+        "ad": "Villarreal",
+        "kod": "VIL"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Porto",
+        "kod": "POR"
+      },
+      "dep": {
+        "ad": "Manchester City",
+        "kod": "MAN"
+      },
+      "skor": [
+        0,
+        2
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Lille",
+        "kod": "LIL"
+      },
+      "dep": {
+        "ad": "Real Betis",
+        "kod": "REA"
+      },
+      "skor": [
+        2,
+        3
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Real Madrid",
+        "kod": "REA"
+      },
+      "dep": {
+        "ad": "Inter",
+        "kod": "INT"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Barcelona",
+        "kod": "BAR"
+      },
+      "dep": {
+        "ad": "Feyenoord",
+        "kod": "FEY"
+      },
+      "skor": [
+        5,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "VfB Stuttgart",
+        "kod": "VFB"
+      },
+      "dep": {
+        "ad": "Viking",
+        "kod": "VIK"
+      },
+      "skor": [
+        3,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Liverpool",
+        "kod": "LIV"
+      },
+      "dep": {
+        "ad": "Atlético Madrid",
+        "kod": "ATL"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Paris Saint-Germain",
+        "kod": "PAR"
+      },
+      "dep": {
+        "ad": "Slovan Bratislava",
+        "kod": "SLO"
+      },
+      "skor": [
+        6,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Sporting CP",
+        "kod": "SPO"
+      },
+      "dep": {
+        "ad": "Galatasaray",
+        "kod": "GAL"
+      },
+      "skor": [
+        3,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      },
+      "macId": "sampiyonlar-ligi-2026-09-09-sporting-cp-galatasaray"
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Napoli",
+        "kod": "NAP"
+      },
+      "dep": {
+        "ad": "Arsenal",
+        "kod": "ARS"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Fenerbahçe",
+        "kod": "FEN"
+      },
+      "dep": {
+        "ad": "Roma",
+        "kod": "ROM"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      },
+      "macId": "sampiyonlar-ligi-2026-09-10-fenerbahce-roma"
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "PSV Eindhoven",
+        "kod": "PSV"
+      },
+      "dep": {
+        "ad": "Shakhtar Donetsk",
+        "kod": "SHA"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Como",
+        "kod": "COM"
+      },
+      "dep": {
+        "ad": "RB Leipzig",
+        "kod": "RBL"
+      },
+      "skor": [
+        4,
+        1
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Bayern Münih",
+        "kod": "BAY"
+      },
+      "dep": {
+        "ad": "Bodø/Glimt",
+        "kod": "BOD"
+      },
+      "skor": [
+        5,
+        0
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Manchester United",
+        "kod": "MAN"
+      },
+      "dep": {
+        "ad": "Sabah",
+        "kod": "SAB"
+      },
+      "skor": [
+        4,
+        0
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "sampiyonlar-ligi",
+      "tarih": "2026-09-09",
+      "saat": false,
+      "ev": {
+        "ad": "Slavia Prague",
+        "kod": "SLA"
+      },
+      "dep": {
+        "ad": "Lens",
+        "kod": "LEN"
+      },
+      "skor": [
+        2,
+        3
+      ],
+      "tur": {
+        "tr": "1. hafta",
+        "en": "Matchday 1"
+      }
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Lilleström",
+        "kod": "LIL"
+      },
+      "dep": {
+        "ad": "Torreense",
+        "kod": "TOR"
+      },
+      "skor": [
+        1,
+        2
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Beşiktaş",
+        "kod": "BES"
+      },
+      "dep": {
+        "ad": "Marsilya",
+        "kod": "MAR"
+      },
+      "skor": [
+        4,
+        1
+      ],
+      "macId": "avrupa-ligi-2026-09-17-besiktas-marsilya"
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Viktoria Plzen",
+        "kod": "VIK"
+      },
+      "dep": {
+        "ad": "Union Saint-Gilloise",
+        "kod": "UNI"
+      },
+      "skor": [
+        0,
+        3
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Real Sociedad",
+        "kod": "REA"
+      },
+      "dep": {
+        "ad": "Bournemouth",
+        "kod": "BOU"
+      },
+      "skor": [
+        1,
+        2
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Juventus",
+        "kod": "JUV"
+      },
+      "dep": {
+        "ad": "NEC Nijmegen",
+        "kod": "NEC"
+      },
+      "skor": [
+        5,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Crystal Palace",
+        "kod": "CRY"
+      },
+      "dep": {
+        "ad": "Lech Poznan",
+        "kod": "LEC"
+      },
+      "skor": [
+        4,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Celtic",
+        "kod": "CEL"
+      },
+      "dep": {
+        "ad": "Ferencváros",
+        "kod": "FER"
+      },
+      "skor": [
+        1,
+        3
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "Levski Sofia",
+        "kod": "LEV"
+      },
+      "dep": {
+        "ad": "Salzburg",
+        "kod": "SAL"
+      },
+      "skor": [
+        0,
+        1
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-16",
+      "saat": false,
+      "ev": {
+        "ad": "OFI",
+        "kod": "OFI"
+      },
+      "dep": {
+        "ad": "Hoffenheim",
+        "kod": "HOF"
+      },
+      "skor": [
+        2,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Anderlecht",
+        "kod": "AND"
+      },
+      "dep": {
+        "ad": "Lyon",
+        "kod": "LYO"
+      },
+      "skor": [
+        1,
+        2
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Bayer Leverkusen",
+        "kod": "BAY"
+      },
+      "dep": {
+        "ad": "Celje",
+        "kod": "CEL"
+      },
+      "skor": [
+        2,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Sturm Graz",
+        "kod": "STU"
+      },
+      "dep": {
+        "ad": "Rennes",
+        "kod": "REN"
+      },
+      "skor": [
+        0,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Milan",
+        "kod": "MIL"
+      },
+      "dep": {
+        "ad": "Benfica",
+        "kod": "BEN"
+      },
+      "skor": [
+        0,
+        2
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Hapoel Beer Sheva",
+        "kod": "HAP"
+      },
+      "dep": {
+        "ad": "Dinamo Zagreb",
+        "kod": "DIN"
+      },
+      "skor": [
+        0,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Sunderland",
+        "kod": "SUN"
+      },
+      "dep": {
+        "ad": "AZ Alkmaar",
+        "kod": "AZA"
+      },
+      "skor": [
+        1,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Olympiakos",
+        "kod": "OLY"
+      },
+      "dep": {
+        "ad": "Jagiellonia Białystok",
+        "kod": "JAG"
+      },
+      "skor": [
+        2,
+        1
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Omonia Nicosia",
+        "kod": "OMO"
+      },
+      "dep": {
+        "ad": "Celta Vigo",
+        "kod": "CEL"
+      },
+      "skor": [
+        1,
+        0
+      ]
+    },
+    {
+      "lig": "avrupa-ligi",
+      "tarih": "2026-09-17",
+      "saat": false,
+      "ev": {
+        "ad": "Ararat-Armenia",
+        "kod": "ARA"
+      },
+      "dep": {
+        "ad": "Sparta Prague",
+        "kod": "SPA"
+      },
+      "skor": [
+        1,
+        4
+      ]
+    },
+    {
+      "lig": "bundesliga",
+      "tarih": "2026-09-18",
+      "saat": false,
+      "ev": {
+        "ad": "Bayern",
+        "kod": "FCB"
+      },
+      "dep": {
+        "ad": "Union Berlin",
+        "kod": "FCU"
+      },
+      "skor": [
+        7,
+        0
+      ]
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-18T17:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Kasımpaşa",
+        "kod": "KAS"
+      },
+      "dep": {
+        "ad": "Konyaspor",
+        "kod": "KON"
+      },
+      "skor": [
+        0,
+        0
+      ],
+      "macId": "super-lig-2026-09-18-kasimpasa-konyaspor"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Çorum FK",
+        "kod": "ÇOR"
+      },
+      "dep": {
+        "ad": "Alanyaspor",
+        "kod": "ALA"
+      },
+      "skor": [
+        1,
+        2
+      ],
+      "macId": "super-lig-2026-09-19-corum-fk-alanyaspor"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Başakşehir",
+        "kod": "BFK"
+      },
+      "dep": {
+        "ad": "Gençlerbirliği",
+        "kod": "GB"
+      },
+      "skor": [
+        4,
+        0
+      ],
+      "macId": "super-lig-2026-09-19-basaksehir-genclerbirligi"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Trabzonspor",
+        "kod": "TS"
+      },
+      "dep": {
+        "ad": "Galatasaray",
+        "kod": "GS"
+      },
+      "skor": [
+        4,
+        0
+      ],
+      "macId": "super-lig-2026-09-19-trabzonspor-galatasaray"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Brighton",
+        "kod": "BHA"
+      },
+      "dep": {
+        "ad": "Arsenal",
+        "kod": "ARS"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "premier-lig-2026-09-19-brighton-arsenal"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Tottenham",
+        "kod": "TOT"
+      },
+      "dep": {
+        "ad": "Aston Villa",
+        "kod": "AVL"
+      },
+      "skor": [
+        2,
+        3
+      ],
+      "macId": "premier-lig-2026-09-19-tottenham-aston-villa"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Sevilla",
+        "kod": "SEV"
+      },
+      "dep": {
+        "ad": "Barcelona",
+        "kod": "BAR"
+      },
+      "skor": [
+        1,
+        3
+      ]
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Roma",
+        "kod": "ROM"
+      },
+      "dep": {
+        "ad": "Inter",
+        "kod": "INT"
+      },
+      "skor": [
+        2,
+        2
+      ]
+    },
+    {
+      "lig": "bundesliga",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Stuttgart",
+        "kod": "VFB"
+      },
+      "dep": {
+        "ad": "Dortmund",
+        "kod": "BVB"
+      },
+      "skor": [
+        0,
+        1
+      ]
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Lyon",
+        "kod": "LYO"
+      },
+      "dep": {
+        "ad": "Rennes",
+        "kod": "REN"
+      },
+      "skor": [
+        4,
+        0
+      ]
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Toulouse",
+        "kod": "TOU"
+      },
+      "dep": {
+        "ad": "Le Havre",
+        "kod": "HAV"
+      },
+      "skor": [
+        3,
+        2
+      ]
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Paris FC",
+        "kod": "PFC"
+      },
+      "dep": {
+        "ad": "Strasbourg",
+        "kod": "STR"
+      },
+      "skor": [
+        2,
+        1
+      ]
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Le Mans",
+        "kod": "LEM"
+      },
+      "dep": {
+        "ad": "Lorient",
+        "kod": "LOR"
+      },
+      "skor": [
+        2,
+        1
+      ]
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Kocaelispor",
+        "kod": "KOC"
+      },
+      "dep": {
+        "ad": "Gaziantep FK",
+        "kod": "GFK"
+      },
+      "skor": [
+        2,
+        0
+      ],
+      "macId": "super-lig-2026-09-19-kocaelispor-gaziantep-fk"
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-20T10:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Fiorentina",
+        "kod": "FIO"
+      },
+      "dep": {
+        "ad": "Napoli",
+        "kod": "NAP"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "serie-a-2026-09-20-fiorentina-napoli"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-20T14:00:00+02:00",
+      "saat": true,
+      "ev": {
+        "ad": "Getafe",
+        "kod": "GET"
+      },
+      "dep": {
+        "ad": "Málaga",
+        "kod": "MLG"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "macId": "la-liga-2026-09-20-getafe-m-laga"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-20T14:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Bournemouth",
+        "kod": "BOU"
+      },
+      "dep": {
+        "ad": "Liverpool",
+        "kod": "LIV"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "macId": "premier-lig-2026-09-20-bournemouth-liverpool"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-20T14:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Leeds",
+        "kod": "LEE"
+      },
+      "dep": {
+        "ad": "Crystal Palace",
+        "kod": "CRY"
+      },
+      "skor": [
+        0,
+        0
+      ],
+      "macId": "premier-lig-2026-09-20-leeds-crystal-palace"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-20T14:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Man. City",
+        "kod": "MCI"
+      },
+      "dep": {
+        "ad": "Sunderland",
+        "kod": "SUN"
+      },
+      "skor": [
+        5,
+        3
+      ],
+      "macId": "premier-lig-2026-09-20-man-city-sunderland"
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-20T13:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Auxerre",
+        "kod": "AUX"
+      },
+      "dep": {
+        "ad": "Brest",
+        "kod": "BRE"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "ligue-1-2026-09-20-auxerre-brest"
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-20T13:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Frosinone",
+        "kod": "FRO"
+      },
+      "dep": {
+        "ad": "Como",
+        "kod": "COM"
+      },
+      "skor": [
+        2,
+        0
+      ],
+      "macId": "serie-a-2026-09-20-frosinone-como"
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-20T13:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Parma",
+        "kod": "PAR"
+      },
+      "dep": {
+        "ad": "Genoa",
+        "kod": "GEN"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "serie-a-2026-09-20-parma-genoa"
+    },
+    {
+      "lig": "bundesliga",
+      "tarih": "2026-09-20T13:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Bayer Leverkusen",
+        "kod": "LEV"
+      },
+      "dep": {
+        "ad": "RB Leipzig",
+        "kod": "RBL"
+      },
+      "skor": [
+        2,
+        0
+      ],
+      "macId": "bundesliga-2026-09-20-bayer-leverkusen-rb-leipzig"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-20T15:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Erzurumspor",
+        "kod": "ERZ"
+      },
+      "dep": {
+        "ad": "Samsunspor",
+        "kod": "SAM"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "macId": "super-lig-2026-09-20-erzurumspor-samsunspor"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-20T15:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Fenerbahçe",
+        "kod": "FB"
+      },
+      "dep": {
+        "ad": "Eyüpspor",
+        "kod": "EYP"
+      },
+      "skor": [
+        8,
+        0
+      ],
+      "macId": "super-lig-2026-09-20-fenerbahce-eyupspor"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-20T16:15:00+02:00",
+      "saat": true,
+      "ev": {
+        "ad": "Atlético",
+        "kod": "ATM"
+      },
+      "dep": {
+        "ad": "Real Madrid",
+        "kod": "RMA"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "la-liga-2026-09-20-atl-tico-real-madrid"
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-20T15:15:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Nice",
+        "kod": "NIC"
+      },
+      "dep": {
+        "ad": "Lille",
+        "kod": "LIL"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "ligue-1-2026-09-20-nice-lille"
+    },
+    {
+      "lig": "premier-lig",
+      "tarih": "2026-09-20T16:30:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Fulham",
+        "kod": "FUL"
+      },
+      "dep": {
+        "ad": "Man. United",
+        "kod": "MUN"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "premier-lig-2026-09-20-fulham-man-united"
+    },
+    {
+      "lig": "bundesliga",
+      "tarih": "2026-09-20T15:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Schalke 04",
+        "kod": "S04"
+      },
+      "dep": {
+        "ad": "Elversberg",
+        "kod": "ELV"
+      },
+      "skor": [
+        0,
+        0
+      ],
+      "macId": "bundesliga-2026-09-20-schalke-04-elversberg"
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-20T16:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Juventus",
+        "kod": "JUV"
+      },
+      "dep": {
+        "ad": "Atalanta",
+        "kod": "ATA"
+      },
+      "skor": [
+        2,
+        0
+      ],
+      "macId": "serie-a-2026-09-20-juventus-atalanta"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-20T18:30:00+02:00",
+      "saat": true,
+      "ev": {
+        "ad": "Deportivo",
+        "kod": "DEP"
+      },
+      "dep": {
+        "ad": "Betis",
+        "kod": "BET"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "la-liga-2026-09-20-deportivo-betis"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-20T18:30:00+02:00",
+      "saat": true,
+      "ev": {
+        "ad": "Villarreal",
+        "kod": "VIL"
+      },
+      "dep": {
+        "ad": "Levante",
+        "kod": "LEV"
+      },
+      "skor": [
+        3,
+        1
+      ],
+      "macId": "la-liga-2026-09-20-villarreal-levante"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-20T18:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Amedspor",
+        "kod": "AMD"
+      },
+      "dep": {
+        "ad": "Beşiktaş",
+        "kod": "BJK"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "macId": "super-lig-2026-09-20-amedspor-besiktas"
+    },
+    {
+      "lig": "super-lig",
+      "tarih": "2026-09-20T18:00:00+01:00",
+      "saat": true,
+      "ev": {
+        "ad": "Göztepe",
+        "kod": "GÖZ"
+      },
+      "dep": {
+        "ad": "Rizespor",
+        "kod": "RİZ"
+      },
+      "skor": [
+        2,
+        2
+      ],
+      "macId": "super-lig-2026-09-20-goztepe-rizespor"
+    },
+    {
+      "lig": "bundesliga",
+      "tarih": "2026-09-20T17:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "SC Paderborn",
+        "kod": "PAD"
+      },
+      "dep": {
+        "ad": "Hoffenheim",
+        "kod": "TSG"
+      },
+      "skor": [
+        3,
+        1
+      ],
+      "macId": "bundesliga-2026-09-20-sc-paderborn-hoffenheim"
+    },
+    {
+      "lig": "ligue-1",
+      "tarih": "2026-09-20T18:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Marseille",
+        "kod": "MAR"
+      },
+      "dep": {
+        "ad": "Paris SG",
+        "kod": "PSG"
+      },
+      "skor": [
+        1,
+        2
+      ],
+      "macId": "ligue-1-2026-09-20-marseille-paris-sg"
+    },
+    {
+      "lig": "serie-a",
+      "tarih": "2026-09-20T18:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Milan",
+        "kod": "MIL"
+      },
+      "dep": {
+        "ad": "Lecce",
+        "kod": "LEC"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "serie-a-2026-09-20-milan-lecce"
+    },
+    {
+      "lig": "la-liga",
+      "tarih": "2026-09-20T21:00:00+02:00",
+      "saat": true,
+      "ev": {
+        "ad": "Valencia",
+        "kod": "VAL"
+      },
+      "dep": {
+        "ad": "Real Sociedad",
+        "kod": "RSO"
+      },
+      "skor": [
+        2,
+        3
+      ]
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-18T18:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Gent",
+        "kod": "GNT"
+      },
+      "dep": {
+        "ad": "Standard Liège",
+        "kod": "STL"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "belcika-ligi-2026-09-18-gent-standard-liege",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "OH Leuven",
+        "kod": "OHL"
+      },
+      "dep": {
+        "ad": "La Louvière",
+        "kod": "RAL"
+      },
+      "skor": [
+        2,
+        0
+      ],
+      "macId": "belcika-ligi-2026-09-19-oh-leuven-la-louviere",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-19T16:15:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Charleroi",
+        "kod": "CHA"
+      },
+      "dep": {
+        "ad": "Cercle Brugge",
+        "kod": "CER"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "macId": "belcika-ligi-2026-09-19-charleroi-cercle-brugge",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-19T18:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Anderlecht",
+        "kod": "AND"
+      },
+      "dep": {
+        "ad": "Zulte Waregem",
+        "kod": "ZWA"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "belcika-ligi-2026-09-19-anderlecht-zulte-waregem",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-19T18:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Lommel",
+        "kod": "LOM"
+      },
+      "dep": {
+        "ad": "Mechelen",
+        "kod": "MEC"
+      },
+      "skor": [
+        0,
+        0
+      ],
+      "macId": "belcika-ligi-2026-09-19-lommel-mechelen",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-20T11:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Antwerp",
+        "kod": "ANT"
+      },
+      "dep": {
+        "ad": "Union SG",
+        "kod": "USG"
+      },
+      "skor": [
+        0,
+        2
+      ],
+      "macId": "belcika-ligi-2026-09-20-antwerp-union-sg",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-20T14:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Sint-Truiden",
+        "kod": "STV"
+      },
+      "dep": {
+        "ad": "Westerlo",
+        "kod": "WES"
+      },
+      "skor": [
+        0,
+        2
+      ],
+      "macId": "belcika-ligi-2026-09-20-sint-truiden-westerlo",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-20T16:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Club Brugge",
+        "kod": "CLU"
+      },
+      "dep": {
+        "ad": "Genk",
+        "kod": "GNK"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "belcika-ligi-2026-09-20-club-brugge-genk",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "belcika-ligi",
+      "tarih": "2026-09-20T17:15:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Kortrijk",
+        "kod": "KOR"
+      },
+      "dep": {
+        "ad": "Beveren",
+        "kod": "BEV"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "macId": "belcika-ligi-2026-09-20-kortrijk-beveren",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-20T12:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Brøndby",
+        "kod": "BRO"
+      },
+      "dep": {
+        "ad": "København",
+        "kod": "FCK"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "macId": "danimarka-ligi-2026-09-20-brondby-kobenhavn",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-20T16:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Viborg",
+        "kod": "VIB"
+      },
+      "dep": {
+        "ad": "Nordsjælland",
+        "kod": "NOR"
+      },
+      "skor": [
+        4,
+        1
+      ],
+      "macId": "danimarka-ligi-2026-09-20-viborg-nordsjaelland",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-20T14:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Horsens",
+        "kod": "HOR"
+      },
+      "dep": {
+        "ad": "AGF",
+        "kod": "AGF"
+      },
+      "skor": [
+        2,
+        2
+      ],
+      "macId": "danimarka-ligi-2026-09-20-horsens-agf",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-20T12:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Sønderjyske",
+        "kod": "SON"
+      },
+      "dep": {
+        "ad": "Randers",
+        "kod": "RAN"
+      },
+      "skor": [
+        4,
+        2
+      ],
+      "macId": "danimarka-ligi-2026-09-20-sonderjyske-randers",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-19T16:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "OB",
+        "kod": "OB"
+      },
+      "dep": {
+        "ad": "Midtjylland",
+        "kod": "MID"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "danimarka-ligi-2026-09-19-ob-midtjylland",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-18T12:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Lyngby",
+        "kod": "LYN"
+      },
+      "dep": {
+        "ad": "Silkeborg",
+        "kod": "SIL"
+      },
+      "skor": [
+        0,
+        4
+      ],
+      "macId": "danimarka-ligi-2026-09-18-lyngby-silkeborg",
+      "tur": {
+        "tr": "9. hafta",
+        "en": "Matchday 9"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-14T17:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Midtjylland",
+        "kod": "MID"
+      },
+      "dep": {
+        "ad": "Brøndby",
+        "kod": "BRO"
+      },
+      "skor": [
+        4,
+        1
+      ],
+      "macId": "danimarka-ligi-2026-09-14-midtjylland-brondby",
+      "tur": {
+        "tr": "8. hafta",
+        "en": "Matchday 8"
+      }
+    },
+    {
+      "lig": "danimarka-ligi",
+      "tarih": "2026-09-06T12:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "OB",
+        "kod": "OB"
+      },
+      "dep": {
+        "ad": "København",
+        "kod": "FCK"
+      },
+      "skor": [
+        0,
+        5
+      ],
+      "macId": "danimarka-ligi-2026-09-06-ob-kobenhavn",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-15T18:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Ajax",
+        "kod": "AJA"
+      },
+      "dep": {
+        "ad": "Willem II",
+        "kod": "WIL"
+      },
+      "skor": [
+        5,
+        1
+      ],
+      "tur": {
+        "tr": "Ertelenen maç",
+        "en": "Rescheduled match"
+      },
+      "macId": "eredivisie-2026-09-15-ajax-willem-ii"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-18T18:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "FC Groningen",
+        "kod": "GRO"
+      },
+      "dep": {
+        "ad": "PEC Zwolle",
+        "kod": "PEC"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-18-fc-groningen-pec-zwolle"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-19T14:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "ADO Den Haag",
+        "kod": "ADO"
+      },
+      "dep": {
+        "ad": "SC Cambuur",
+        "kod": "CAM"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-19-ado-den-haag-sc-cambuur"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-19T16:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Sparta Rotterdam",
+        "kod": "SPA"
+      },
+      "dep": {
+        "ad": "SC Heerenveen",
+        "kod": "HEE"
+      },
+      "skor": [
+        0,
+        4
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-19-sparta-rotterdam-sc-heerenveen"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-19T18:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Ajax",
+        "kod": "AJA"
+      },
+      "dep": {
+        "ad": "Excelsior",
+        "kod": "EXC"
+      },
+      "skor": [
+        2,
+        2
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-19-ajax-excelsior"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-19T19:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Willem II",
+        "kod": "WIL"
+      },
+      "dep": {
+        "ad": "Fortuna Sittard",
+        "kod": "FOR"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-19-willem-ii-fortuna-sittard"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-20T10:15:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Feyenoord",
+        "kod": "FEY"
+      },
+      "dep": {
+        "ad": "FC Utrecht",
+        "kod": "UTR"
+      },
+      "skor": [
+        5,
+        0
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-20-feyenoord-fc-utrecht"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-20T12:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "AZ",
+        "kod": "AZ"
+      },
+      "dep": {
+        "ad": "Telstar",
+        "kod": "TEL"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-20-az-telstar"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-20T12:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "FC Twente",
+        "kod": "TWE"
+      },
+      "dep": {
+        "ad": "PSV",
+        "kod": "PSV"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-20-fc-twente-psv"
+    },
+    {
+      "lig": "eredivisie",
+      "tarih": "2026-09-20T14:45:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "NEC",
+        "kod": "NEC"
+      },
+      "dep": {
+        "ad": "Go Ahead Eagles",
+        "kod": "GAE"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      },
+      "macId": "eredivisie-2026-09-20-nec-go-ahead-eagles"
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-20T12:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Celtic",
+        "kod": "CEL"
+      },
+      "dep": {
+        "ad": "Rangers",
+        "kod": "RAN"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-20-celtic-rangers",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Kilmarnock",
+        "kod": "KIL"
+      },
+      "dep": {
+        "ad": "Hearts",
+        "kod": "HEA"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-19-kilmarnock-hearts",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Dundee",
+        "kod": "DUN"
+      },
+      "dep": {
+        "ad": "Motherwell",
+        "kod": "MOT"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-19-dundee-motherwell",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Hibernian",
+        "kod": "HIB"
+      },
+      "dep": {
+        "ad": "Aberdeen",
+        "kod": "ABE"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-19-hibernian-aberdeen",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "St Johnstone",
+        "kod": "STJ"
+      },
+      "dep": {
+        "ad": "Falkirk",
+        "kod": "FAL"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-19-st-johnstone-falkirk",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "St Mirren",
+        "kod": "STM"
+      },
+      "dep": {
+        "ad": "Dundee United",
+        "kod": "DUU"
+      },
+      "skor": [
+        0,
+        3
+      ],
+      "macId": "iskocya-ligi-2026-09-19-st-mirren-dundee-united",
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-15T18:45:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Falkirk",
+        "kod": "FAL"
+      },
+      "dep": {
+        "ad": "Hearts",
+        "kod": "HEA"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-15-falkirk-hearts",
+      "tur": {
+        "tr": "6. hafta",
+        "en": "Matchday 6"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-15T18:45:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Hibernian",
+        "kod": "HIB"
+      },
+      "dep": {
+        "ad": "Kilmarnock",
+        "kod": "KIL"
+      },
+      "skor": [
+        0,
+        1
+      ],
+      "macId": "iskocya-ligi-2026-09-15-hibernian-kilmarnock",
+      "tur": {
+        "tr": "6. hafta",
+        "en": "Matchday 6"
+      }
+    },
+    {
+      "lig": "iskocya-ligi",
+      "tarih": "2026-09-15T18:45:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Motherwell",
+        "kod": "MOT"
+      },
+      "dep": {
+        "ad": "Aberdeen",
+        "kod": "ABE"
+      },
+      "skor": [
+        0,
+        4
+      ],
+      "macId": "iskocya-ligi-2026-09-15-motherwell-aberdeen",
+      "tur": {
+        "tr": "6. hafta",
+        "en": "Matchday 6"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-20T19:30:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "FC Porto",
+        "kod": "POR"
+      },
+      "dep": {
+        "ad": "Benfica",
+        "kod": "BEN"
+      },
+      "skor": [
+        3,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-20",
+      "saat": false,
+      "ev": {
+        "ad": "Santa Clara",
+        "kod": "SCL"
+      },
+      "dep": {
+        "ad": "SC Braga",
+        "kod": "BRA"
+      },
+      "skor": [
+        0,
+        0
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-20",
+      "saat": false,
+      "ev": {
+        "ad": "Estoril Praia",
+        "kod": "ESP"
+      },
+      "dep": {
+        "ad": "Casa Pia",
+        "kod": "CPA"
+      },
+      "skor": [
+        1,
+        2
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-20",
+      "saat": false,
+      "ev": {
+        "ad": "Vitória de Guimarães",
+        "kod": "VSC"
+      },
+      "dep": {
+        "ad": "Moreirense",
+        "kod": "MOR"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-20",
+      "saat": false,
+      "ev": {
+        "ad": "Estrela da Amadora",
+        "kod": "EST"
+      },
+      "dep": {
+        "ad": "Académico de Viseu",
+        "kod": "ACV"
+      },
+      "skor": [
+        0,
+        2
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Sporting CP",
+        "kod": "SCP"
+      },
+      "dep": {
+        "ad": "Arouca",
+        "kod": "ARO"
+      },
+      "skor": [
+        2,
+        2
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Nacional",
+        "kod": "NAC"
+      },
+      "dep": {
+        "ad": "Famalicão",
+        "kod": "FAM"
+      },
+      "skor": [
+        0,
+        4
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Alverca",
+        "kod": "ALV"
+      },
+      "dep": {
+        "ad": "Rio Ave",
+        "kod": "RAV"
+      },
+      "skor": [
+        1,
+        0
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "liga-portugal",
+      "tarih": "2026-09-19",
+      "saat": false,
+      "ev": {
+        "ad": "Gil Vicente",
+        "kod": "GIL"
+      },
+      "dep": {
+        "ad": "Marítimo",
+        "kod": "MAR"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "tur": {
+        "tr": "7. hafta",
+        "en": "Matchday 7"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-20T17:15:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Brann",
+        "kod": "BRA"
+      },
+      "dep": {
+        "ad": "Bodø/Glimt",
+        "kod": "BOD"
+      },
+      "skor": [
+        2,
+        1
+      ],
+      "macId": "norvec-ligi-2026-09-20-brann-bodo-glimt",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-20T15:00:00Z",
+      "saat": true,
+      "ev": {
+        "ad": "Viking",
+        "kod": "VIK"
+      },
+      "dep": {
+        "ad": "Lillestrøm",
+        "kod": "LSK"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "norvec-ligi-2026-09-20-viking-lillestrom",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-20T15:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Tromsø",
+        "kod": "TRO"
+      },
+      "dep": {
+        "ad": "HamKam",
+        "kod": "HAM"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "macId": "norvec-ligi-2026-09-20-tromso-hamkam",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-20T15:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Sandefjord",
+        "kod": "SAN"
+      },
+      "dep": {
+        "ad": "Start",
+        "kod": "STA"
+      },
+      "skor": [
+        3,
+        0
+      ],
+      "macId": "norvec-ligi-2026-09-20-sandefjord-start",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-20T15:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Vålerenga",
+        "kod": "VIF"
+      },
+      "dep": {
+        "ad": "Fredrikstad",
+        "kod": "FFK"
+      },
+      "skor": [
+        1,
+        1
+      ],
+      "macId": "norvec-ligi-2026-09-20-valerenga-fredrikstad",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-19T16:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Molde",
+        "kod": "MOL"
+      },
+      "dep": {
+        "ad": "Aalesund",
+        "kod": "AAL"
+      },
+      "skor": [
+        1,
+        2
+      ],
+      "macId": "norvec-ligi-2026-09-19-molde-aalesund",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-19T14:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Kristiansund",
+        "kod": "KBK"
+      },
+      "dep": {
+        "ad": "Rosenborg",
+        "kod": "ROS"
+      },
+      "skor": [
+        1,
+        3
+      ],
+      "macId": "norvec-ligi-2026-09-19-kristiansund-rosenborg",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-18T17:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Sarpsborg 08",
+        "kod": "SAR"
+      },
+      "dep": {
+        "ad": "KFUM Oslo",
+        "kod": "KFU"
+      },
+      "skor": [
+        1,
+        3
+      ],
+      "macId": "norvec-ligi-2026-09-18-sarpsborg-08-kfum-oslo",
+      "tur": {
+        "tr": "22. hafta",
+        "en": "Round 22"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-14T17:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Bodø/Glimt",
+        "kod": "BOD"
+      },
+      "dep": {
+        "ad": "Sandefjord",
+        "kod": "SAN"
+      },
+      "skor": [
+        3,
+        2
+      ],
+      "macId": "norvec-ligi-2026-09-14-bodo-glimt-sandefjord",
+      "tur": {
+        "tr": "21. hafta",
+        "en": "Round 21"
+      }
+    },
+    {
+      "lig": "norvec-ligi",
+      "tarih": "2026-09-13T15:00:00Z",
+      "saat": false,
+      "ev": {
+        "ad": "Viking",
+        "kod": "VIK"
+      },
+      "dep": {
+        "ad": "Kristiansund",
+        "kod": "KBK"
+      },
+      "skor": [
+        8,
+        1
+      ],
+      "macId": "norvec-ligi-2026-09-13-viking-kristiansund",
+      "tur": {
+        "tr": "21. hafta",
+        "en": "Round 21"
+      }
+    }
+  ]
+}

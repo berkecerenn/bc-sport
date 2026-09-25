@@ -1,0 +1,75 @@
+<!doctype html><html lang="tr"><head><meta charset="utf-8"><title>Logo testi</title><link rel="stylesheet" href="css/stil.css"><link rel="stylesheet" href="css/temalar.css"><style>
+body{padding:20px}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
+.g div{display:flex;align-items:center;gap:8px;border:1px solid #ddd;padding:8px;border-radius:8px}
+.g div.eksik{border-color:#dc2626;background:#fef2f2}
+h2{margin-top:34px}
+#ozet{position:sticky;top:0;background:#fff;padding:10px 0;border-bottom:2px solid #ddd;font-weight:700;z-index:5}
+</style></head><body>
+<h1>Logo testi</h1>
+<p>Kırmızı çerçeveli / harf rozeti görünen takım ya da lig = Wikipedia'dan logo bulunamadı. O isim için elle dosya koy: takımlar <code>img/logolar/&lt;slug&gt;.png</code>, ligler <code>img/ligler/&lt;lig-kodu&gt;.png</code>.</p>
+<p id="ozet">Yükleniyor…</p>
+<h2>Kulüpler</h2>
+<div class="g" id="g"></div>
+<h2>Ligler ve UEFA kupaları</h2>
+<div class="g" id="gl"></div>
+<script src="js/i18n.js"></script>
+<script src="js/ortak.js"></script>
+<script>
+function eager(kutu) { const im = kutu.querySelector("img"); if (im) im.loading = "eager"; return kutu; }
+function satir(kap, ad, buyukKutu) {
+  const d = document.createElement("div");
+  d.append(eager(buyukKutu));
+  const x = document.createElement("span");
+  x.textContent = ad + " → " + slugla(ad);
+  d.append(x);
+  kap.append(d);
+  return d;
+}
+async function beklemeVeKontrol(kutular) {
+  await new Promise(function (r) { setTimeout(r, 6000); });
+  let eksik = 0;
+  kutular.forEach(function (kayit) {
+    const arma = kayit.d.querySelector(".arma, .lig-logo-kutu");
+    const img = kayit.d.querySelector("img");
+    const yok = (arma && arma.classList.contains("yedek")) || !img || img.naturalWidth === 0;
+    if (yok) { kayit.d.classList.add("eksik"); eksik++; }
+  });
+  document.getElementById("ozet").textContent = kutular.length + " öğeden " + eksik + " tanesinin logosu bulunamadı (kırmızı çerçeveliler). Kalan " + (kutular.length - eksik) + " tanesi Wikipedia'dan otomatik bulundu.";
+}
+
+Promise.all([
+  fetch("data/fikstur.json").then(function (r) { return r.json(); }),
+  fetch("data/maclar.json").then(function (r) { return r.json(); }),
+  fetch("data/puan.json").then(function (r) { return r.json(); })
+]).then(function (sonuclar) {
+  const fikstur = sonuclar[0], maclar = sonuclar[1], puan = sonuclar[2];
+  const adlar = new Set();
+  const takimlar = [];
+  const ekle = function (ad) { if (!ad || adlar.has(ad)) return; adlar.add(ad); takimlar.push({ ad: ad }); };
+  (fikstur.maclar || []).forEach(function (m) { ekle(m.ev.ad); ekle(m.dep.ad); });
+  (maclar.maclar || []).forEach(function (m) { ekle(m.ev.ad); ekle(m.dep.ad); });
+  (puan.ligler || []).forEach(function (l) { (l.tablo || []).forEach(function (s) { ekle(s.takim); }); });
+  takimlar.sort(function (a, b) { return a.ad.localeCompare(b.ad, "tr"); });
+
+  const g = document.getElementById("g");
+  const kayitlar = takimlar.map(function (t) { return { d: satir(g, t.ad, armaOlustur(t, true)) }; });
+
+  const gl = document.getElementById("gl");
+  const ligKayitlari = Object.keys(LIG_BILGI).map(function (kod) {
+    const kutu = document.createElement("div"); kutu.className = "lig-logo-kutu";
+    const img = document.createElement("img"); img.alt = LIG_BILGI[kod].ad;
+    const yedek = function () { img.remove(); const s = document.createElement("span"); kutu.classList.add("yedek"); s.textContent = kod.slice(0, 3).toUpperCase(); kutu.append(s); };
+    img.addEventListener("error", function () {
+      wikiLogo(LIG_ARAMA[kod] || LIG_BILGI[kod].ad).then(function (u) { if (!u) { yedek(); return; } img.addEventListener("error", yedek, { once: true }); img.src = u; });
+    }, { once: true });
+    img.loading = "eager";
+    img.src = "img/ligler/" + kod + ".png";
+    kutu.prepend(img);
+    return { d: satir(gl, LIG_BILGI[kod].ad, kutu) };
+  });
+
+  beklemeVeKontrol(kayitlar.concat(ligKayitlari));
+});
+</script>
+</body></html>

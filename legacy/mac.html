@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BC Sport · Maç merkezi</title>
+  <link rel="icon" href="img/marka/favicon-32.png" sizes="32x32" type="image/png">
+  <link rel="apple-touch-icon" href="img/marka/apple-touch-icon.png">
+  <link rel="stylesheet" href="css/stil.css">
+  <link rel="stylesheet" href="css/temalar.css">
+</head>
+<body>
+
+  <header class="ust">
+    <div class="kapsayici ust-icerik">
+      <h1 class="logo"><a href="index.html"><img class="logo-resim" src="img/marka/logo.png" alt="BC Sport"></a></h1>
+      <div class="dil-secici" role="group" aria-label="Dil">
+        <button class="dil-dugme" data-dil="tr">TR</button>
+        <button class="dil-dugme" data-dil="en">EN</button>
+      </div>
+    </div>
+  </header>
+  <div id="ustMenu"></div>
+
+  <main class="kapsayici">
+    <p><a class="geri" href="index.html" data-i18n="haber.geri">← Tüm haberler</a></p>
+    <div id="macIcerik"><p class="mesaj" data-i18n="mesaj.yukleniyor">Yükleniyor…</p></div>
+  </main>
+
+  <footer class="alt">
+    <div class="kapsayici">
+      <p data-i18n="alt.aciklama">Haberler, birden çok kaynaktaki bilgiler karşılaştırılarak derlenir ve yeniden yazılır.</p>
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/ortak.js"></script>
+  <script src="js/mac.js"></script>
+</body>
+</html>

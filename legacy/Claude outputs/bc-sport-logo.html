@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="tr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>BC Sport Logo Taslakları</title>
+<style>
+:root{--ink:#0b1020;--line:#dde2ee}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,Segoe UI,Roboto,sans-serif;background:#f4f6fb;color:var(--ink);padding:24px 16px 60px}
+.w{max-width:1100px;margin:0 auto}h1{margin:0 0 4px;font-size:1.6rem}p.s{color:#5a6478;margin:0 0 22px}
+.k{background:#fff;border:1px solid var(--line);border-radius:18px;margin-bottom:24px;overflow:hidden}
+.kb{padding:14px 22px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.kb h2{margin:0;font-size:1.1rem}.kb span{color:#5a6478;font-size:.9rem}
+.g{display:grid;grid-template-columns:1.4fr 1fr 0.6fr}
+.a{padding:30px;display:flex;align-items:center;justify-content:center;min-height:190px;border-right:1px solid var(--line)}
+.a:last-child{border-right:0}.d{background:#0b1020}.t{background:#f4f6fb}
+.pal{display:flex;gap:10px;padding:18px 22px;flex-wrap:wrap;border-top:1px solid var(--line)}
+.sw{width:90px}.sw i{display:block;height:44px;border-radius:10px;border:1px solid rgba(0,0,0,.08)}
+.sw b{display:block;font-size:.72rem;margin-top:5px}.sw em{font-style:normal;font-size:.68rem;color:#5a6478}
+.note{padding:0 22px 18px;color:#3b4459;font-size:.92rem;line-height:1.55;margin:0}
+@media(max-width:820px){.g{grid-template-columns:1fr}.a{border-right:0;border-bottom:1px solid var(--line)}}
+</style></head><body><div class="w">
+<h1>BC Sport: logo taslakları</h1>
+<p class="s">B ve C harfleri sıfırdan, köşeli ve hafif eğik bir çizgiyle çizildi. Üç yön: gradyan monogram, uygulama ikonu, top detaylı çizgi logo.</p>
+
+<svg width="0" height="0" style="position:absolute"><defs>
+ <linearGradient id="gr" gradientUnits="userSpaceOnUse" x1="0" y1="90" x2="150" y2="10">
+  <stop offset="0" stop-color="#0fb5ae"/><stop offset=".5" stop-color="#2456f5"/><stop offset="1" stop-color="#7440e8"/></linearGradient>
+ <linearGradient id="gr2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="150" y2="0">
+  <stop offset="0" stop-color="#2456f5"/><stop offset="1" stop-color="#7440e8"/></linearGradient>
+
+ <!-- B ve C: kalın çizgiyle çizilmiş, köşeleri hafif yuvarlak -->
+ <g id="B" fill="none" stroke-width="15" stroke-linejoin="round" stroke-linecap="butt">
+  <path d="M14 12 V88 M14 12 H44 Q62 12 62 30 Q62 47 44 47 H14 M44 47 H50 Q70 47 70 67.5 Q70 88 50 88 H14"/>
+ </g>
+ <g id="C" fill="none" stroke-width="15" stroke-linejoin="round" stroke-linecap="butt">
+  <path d="M148 12 H112 Q88 12 88 50 Q88 88 112 88 H148"/>
+ </g>
+</defs></svg>
+
+<!-- V1 -->
+<section class="k"><div class="kb"><h2>1 · Hız Monogramı</h2><span>Ana logo önerim</span></div>
+<div class="g">
+ <div class="a">
+  <svg viewBox="0 0 170 150" width="100%" style="max-width:300px">
+   <g transform="translate(6 0) skewX(-10)">
+    <use href="#B" stroke="url(#gr)"/><use href="#C" stroke="url(#gr)"/>
+    <!-- ofsayt/hız çizgisi: iki harfi birleştiren ince çapraz kesik -->
+    <path d="M78 6 L96 94" stroke="#fff" stroke-width="5" fill="none"/>
+   </g>
+   <text x="14" y="130" font-size="25" letter-spacing="14" fill="#0b1020" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a d">
+  <svg viewBox="0 0 170 150" width="100%" style="max-width:300px">
+   <g transform="translate(6 0) skewX(-10)">
+    <use href="#B" stroke="url(#gr)"/><use href="#C" stroke="url(#gr)"/>
+    <path d="M78 6 L96 94" stroke="#0b1020" stroke-width="5" fill="none"/>
+   </g>
+   <text x="14" y="130" font-size="25" letter-spacing="14" fill="#fff" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a t">
+  <svg viewBox="0 0 170 100" width="90"><g transform="translate(6 0) skewX(-10)"><use href="#B" stroke="#0b1020"/><use href="#C" stroke="#0b1020"/></g></svg>
+ </div>
+</div>
+<p class="note" style="padding-top:14px">Harflerin arasından geçen ince çapraz kesik ofsayt çizgisidir. Tek renk (siyah) hâli sağdaki gibi basılı ve favicon kullanımı için hazır.</p>
+</section>
+
+<!-- V2 -->
+<section class="k"><div class="kb"><h2>2 · Rozet / Uygulama ikonu</h2><span>Favicon, sosyal medya profili, mobil</span></div>
+<div class="g">
+ <div class="a">
+  <svg viewBox="0 0 300 130" width="100%" style="max-width:340px">
+   <defs><linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2456f5"/><stop offset="1" stop-color="#7440e8"/></linearGradient></defs>
+   <rect x="6" y="6" width="118" height="118" rx="30" fill="url(#tile)"/>
+   <g transform="translate(9 30) scale(.62) skewX(-10)" stroke="#fff"><use href="#B" stroke="#fff"/><use href="#C" stroke="#fff"/></g>
+   <circle cx="104" cy="26" r="7" fill="#0fb5ae"/>
+   <text x="138" y="62" font-size="40" fill="#0b1020" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:900;font-style:italic;letter-spacing:-1px">BC</text>
+   <text x="140" y="92" font-size="19" letter-spacing="9" fill="#0b1020" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a d">
+  <svg viewBox="0 0 300 130" width="100%" style="max-width:340px">
+   <rect x="6" y="6" width="118" height="118" rx="30" fill="#131a30" stroke="#2a3552"/>
+   <g transform="translate(9 30) scale(.62) skewX(-10)"><use href="#B" stroke="url(#gr)"/><use href="#C" stroke="url(#gr)"/></g>
+   <circle cx="104" cy="26" r="7" fill="#0fb5ae"/>
+   <text x="138" y="62" font-size="40" fill="#fff" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:900;font-style:italic;letter-spacing:-1px">BC</text>
+   <text x="140" y="92" font-size="19" letter-spacing="9" fill="#fff" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a t">
+  <svg viewBox="0 0 60 60" width="64"><rect width="60" height="60" rx="15" fill="url(#tile)"/><g transform="translate(5 14) scale(.3) skewX(-10)"><use href="#B" stroke="#fff"/><use href="#C" stroke="#fff"/></g></svg>
+ </div>
+</div>
+<p class="note" style="padding-top:14px">Gradyan zemin üzerinde beyaz monogram; küçük turkuaz nokta "canlı" göstergesi. Sağda 60 px favicon boyutu.</p>
+</section>
+
+<!-- V3 -->
+<section class="k"><div class="kb"><h2>3 · Top Detaylı Çizgi Logo</h2><span>Futbola en doğrudan gönderme</span></div>
+<div class="g">
+ <div class="a">
+  <svg viewBox="0 0 200 150" width="100%" style="max-width:300px">
+   <g transform="translate(6 0) skewX(-10)">
+    <use href="#B" stroke="#0b1020"/>
+    <use href="#C" stroke="#0b1020"/>
+    <!-- top: C'nin ağzında -->
+    <circle cx="124" cy="50" r="13" fill="url(#gr2)"/>
+    <path d="M124 40 l7 5 -3 8 h-8 l-3 -8 z" fill="#fff" opacity=".9"/>
+   </g>
+   <text x="16" y="130" font-size="23" letter-spacing="15" fill="#0b1020" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a d">
+  <svg viewBox="0 0 200 150" width="100%" style="max-width:300px">
+   <g transform="translate(6 0) skewX(-10)">
+    <use href="#B" stroke="#fff"/><use href="#C" stroke="#fff"/>
+    <circle cx="124" cy="50" r="13" fill="url(#gr2)"/>
+    <path d="M124 40 l7 5 -3 8 h-8 l-3 -8 z" fill="#fff" opacity=".9"/>
+   </g>
+   <text x="16" y="130" font-size="23" letter-spacing="15" fill="#fff" style="font-family:'Arial Black',system-ui,sans-serif;font-weight:800">SPORT</text>
+  </svg>
+ </div>
+ <div class="a t">
+  <svg viewBox="0 0 170 100" width="90"><g transform="translate(6 0) skewX(-10)"><use href="#B" stroke="#0b1020"/><use href="#C" stroke="#0b1020"/><circle cx="118" cy="50" r="10" fill="#2456f5"/></g></svg>
+ </div>
+</div>
+<p class="note" style="padding-top:14px">C harfinin ağzında duran top, "harfin içinden gol" fikrini verir. Sade siyah-beyaz ve tek renk kullanımda da çalışır.</p>
+</section>
+
+<section class="k"><div class="pal">
+ <div class="sw"><i style="background:#2456f5"></i><b>Kobalt</b><em>#2456F5 · ana</em></div>
+ <div class="sw"><i style="background:#0fb5ae"></i><b>Turkuaz</b><em>#0FB5AE</em></div>
+ <div class="sw"><i style="background:#7440e8"></i><b>Mor</b><em>#7440E8</em></div>
+ <div class="sw"><i style="background:#23b45a"></i><b>Yeşil</b><em>#23B45A · sadece "canlı/gol"</em></div>
+ <div class="sw"><i style="background:#0b1020"></i><b>Mürekkep</b><em>#0B1020</em></div>
+ <div class="sw"><i style="background:#f4f6fb"></i><b>Buz beyazı</b><em>#F4F6FB</em></div>
+</div></section>
+</div></body></html>
