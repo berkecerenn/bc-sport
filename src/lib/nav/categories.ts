@@ -1,3 +1,5 @@
+import type { Locale } from "@/lib/i18n/config";
+
 // Üst menüdeki lig ve kategori listesi. legacy/index.html'deki .kategoriler
 // menüsünün karşılığıdır; etiketler legacy/js/i18n.js'deki onaylı TR/EN
 // çevirilerle birebir aynıdır. href'ler henüz `locale` öneki taşımaz; bunu
@@ -71,3 +73,12 @@ export const specialLinks: NavLink[] = [
 ];
 
 export const primaryNavLinks: NavLink[] = [allNewsLink, ...leagueLinks, ...specialLinks];
+
+// Bir haberin `category` (kategori kodu, ör. "super-lig") alanını okunabilir,
+// yerelleştirilmiş bir etikete çevirir (haber kartlarındaki kategori rozeti
+// için). Eşleşme yoksa (kategori kodu henüz menüde tanımlı değilse) kodun
+// kendisini döner.
+export function getCategoryLabel(categorySlug: string, locale: Locale): string {
+  const match = [...leagueLinks, ...specialLinks].find((item) => item.slug === categorySlug);
+  return match ? match.label[locale] : categorySlug;
+}

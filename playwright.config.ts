@@ -15,9 +15,12 @@ export default defineConfig({
     ...devices["Desktop Chrome"],
   },
   webServer: {
-    command: `npm run dev -- -p ${PORT}`,
+    // Prod build kullanıyoruz: `next dev`'in ilk istekte yaptığı isteğe bağlı
+    // derleme, testlerde (özellikle taze bir sunucuda ilk test) kararsızlığa
+    // yol açıyordu.
+    command: `npm run build && npm run start -- -p ${PORT}`,
     url: BASE_URL,
     reuseExistingServer: !process.env.CI,
-    timeout: 120_000,
+    timeout: 180_000,
   },
 });

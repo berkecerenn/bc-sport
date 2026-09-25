@@ -17,5 +17,11 @@
   "footer": {
     "description": "Stories are compiled by comparing information from several sources and rewritten in our own words.",
     "rights": "All rights reserved."
+  },
+  "news": {
+    "latestHeading": "Latest news",
+    "moreHeading": "More news",
+    "photoCredit": "Illustrative image, not from the match. Photo:",
+    "empty": "No news in this category yet."
   }
 }

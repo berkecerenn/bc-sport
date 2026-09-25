@@ -1,0 +1,42 @@
+.figureCard {
+  position: relative;
+  margin: 0;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: var(--color-border);
+}
+
+.figureHero {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Plain <img> (SVG kapak) için: next/image'ın `fill` prop'una karşılık gelir. */
+img.image {
+  position: absolute;
+  inset: 0;
+}
+
+.credit {
+  position: absolute;
+  right: 8px;
+  bottom: 8px;
+  z-index: 2;
+  background: rgba(17, 24, 39, 0.68);
+  color: #ffffff;
+  font-size: 0.68rem;
+  padding: 2px 8px;
+  border-radius: 999px;
+  max-width: calc(100% - 16px);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

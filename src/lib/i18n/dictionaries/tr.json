@@ -17,5 +17,11 @@
   "footer": {
     "description": "Haberler, birden çok kaynaktaki bilgiler karşılaştırılarak derlenir ve yeniden yazılır.",
     "rights": "Tüm hakları saklıdır."
+  },
+  "news": {
+    "latestHeading": "Son haberler",
+    "moreHeading": "Diğer haberler",
+    "photoCredit": "Temsili görsel, maçtan değildir. Foto:",
+    "empty": "Bu kategoride henüz haber yok."
   }
 }
